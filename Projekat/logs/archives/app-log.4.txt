@@ -1,0 +1,7 @@
+2019-01-02 20:03:18.9058|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-02 20:04:19.9973|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-02 20:04:24.7466|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-02 20:04:28.9779|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-02 20:04:33.8941|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-02 21:43:44.9745|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-02 21:48:39.1263|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID

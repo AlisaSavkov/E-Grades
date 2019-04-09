@@ -1,0 +1,16 @@
+2019-01-03 20:35:50.6291|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-03 20:37:47.2368|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-03 20:48:39.9981|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-03 20:51:09.2156|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-03 20:54:16.8844|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-03 21:37:27.8816|INFO|PProjekat.Controllers.SubjectsController|Requesting all students
+2019-01-03 21:38:04.1666|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-03 22:01:22.0076|INFO|PProjekat.Controllers.SubjectsController|Requesting all students
+2019-01-03 22:21:06.4953|INFO|PProjekat.Controllers.SubjectsController|Requesting all students
+2019-01-03 22:24:39.1985|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-03 22:25:34.3027|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-03 22:27:53.8856|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-03 22:35:39.6193|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-03 22:35:58.7144|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-03 22:37:11.9696|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-03 22:37:20.3850|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID

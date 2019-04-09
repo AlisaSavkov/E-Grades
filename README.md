@@ -1,1 +1,1 @@
-# EG
+# E - grades

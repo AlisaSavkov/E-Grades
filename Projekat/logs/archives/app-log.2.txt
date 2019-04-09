@@ -1,0 +1,1138 @@
+2019-01-04 11:10:03.4084|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 11:10:17.5122|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-04 12:58:08.7654|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-04 13:37:56.8540|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 13:38:47.2329|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-04 14:45:30.5338|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-04 14:51:13.8655|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-04 14:53:27.6111|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-04 14:57:37.5994|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-04 15:28:58.7140|INFO|PProjekat.Controllers.StudentsController|Server file path: C:\Users\User\source\repos\BackendExamples - Copy\PProjekatAuthIzmena\App_Data\BodyPart_9de60fe9-1ce2-495d-b0c5-bc37c35b8b8e
+2019-01-04 16:09:16.7703|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 18:57:41.9273|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 18:59:54.6119|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-04 19:00:52.7612|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-04 19:07:53.9733|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-04 19:08:13.3514|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-04 19:09:24.7325|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-04 19:23:56.0803|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 19:24:19.4777|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 19:27:33.8558|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 19:28:08.5248|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 19:29:46.0403|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 19:31:54.1327|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 19:33:46.4111|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 19:37:55.4393|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 19:47:46.6583|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 19:49:23.4771|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 20:30:14.2319|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 20:31:53.9957|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 20:37:25.2634|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 20:38:04.7226|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 23:30:04.8604|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 23:30:58.3585|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 23:32:45.8896|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-04 23:33:44.4280|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-04 23:36:01.1908|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-04 23:36:12.3514|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-04 23:36:16.0346|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-04 23:36:56.5259|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-04 23:37:10.5898|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-04 23:37:47.9299|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-04 23:37:54.8313|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-05 13:44:27.6675|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-05 13:46:25.4465|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-05 15:01:03.6697|INFO|PProjekat.Controllers.StudentsController|Requesting all students public
+2019-01-05 15:01:21.5569|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-05 15:07:35.3519|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-05 15:07:46.0195|INFO|PProjekat.Controllers.StudentsController|Requesting all students public
+2019-01-07 19:43:09.8301|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-07 19:43:21.0108|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-07 19:46:54.7220|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-07 19:54:14.4651|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-07 19:54:23.9627|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-07 19:54:33.5502|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-07 19:55:29.5984|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-07 19:55:52.8938|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-07 20:02:17.2087|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-07 20:02:34.3277|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-07 20:02:45.2594|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-07 20:03:50.6261|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-07 20:04:59.6470|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-07 20:37:10.2262|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-07 20:41:14.2222|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-07 21:03:00.0779|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-07 21:06:51.0411|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-07 21:07:01.7627|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-07 21:07:09.8552|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-07 21:07:23.2509|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-07 21:07:33.3035|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-07 22:13:00.1981|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-07 22:18:54.1414|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-07 22:19:07.3311|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-07 22:19:21.6979|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-07 22:19:43.0772|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-07 22:21:56.9898|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-07 22:22:08.4955|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-07 22:22:26.7715|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-07 22:28:56.8658|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-07 22:29:55.9352|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-07 22:30:32.9063|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-07 23:04:42.4882|INFO|PProjekat.Controllers.StudentsController|Requesting all students public
+2019-01-07 23:05:18.8483|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-07 23:05:28.3429|INFO|PProjekat.Controllers.StudentsController|Requesting all students public
+2019-01-08 09:43:18.6592|INFO|PProjekat.Controllers.StudentsController|Requesting all students public
+2019-01-08 09:43:44.1887|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-08 09:44:19.6117|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 09:47:06.5273|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 09:49:07.1442|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 10:03:15.1417|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 10:05:14.5745|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-08 10:05:22.5600|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-08 10:06:00.5141|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-08 10:06:09.5976|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 10:07:05.4168|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-08 10:07:16.8255|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-08 10:08:09.1665|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-08 10:09:04.6417|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-08 10:09:17.0604|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 10:09:33.8543|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 10:09:47.3911|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-08 10:10:05.0911|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-08 10:10:10.4034|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-08 10:10:34.9738|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-08 10:10:44.5234|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 10:11:12.0999|INFO|PProjekat.Controllers.StudentsController|Removing a student.
+2019-01-08 10:11:24.5077|INFO|PProjekat.Controllers.StudentsController|Removing a student.
+2019-01-08 10:14:08.8921|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 10:17:12.6506|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 10:17:45.7547|INFO|PProjekat.Controllers.StudentsController|Removing a student.
+2019-01-08 10:22:03.8946|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 10:22:28.1071|INFO|PProjekat.Controllers.StudentsController|Removing a student.
+2019-01-08 10:23:50.5426|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 10:28:24.4622|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-08 10:28:42.5943|INFO|PProjekat.Controllers.StudentsController|Removing a student.
+2019-01-08 10:30:05.0772|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-08 10:30:30.2464|INFO|PProjekat.Controllers.StudentsController|Removing a student.
+2019-01-08 10:57:08.1411|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 10:59:14.5233|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy\PProjekatAuthIzmena\App_Data\BodyPart_ee50007e-9a69-4779-a600-d919e6d871a7
+2019-01-08 11:10:06.9854|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 11:12:21.6749|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 11:13:21.1199|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-08 11:15:30.8271|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-08 11:16:26.3265|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 11:16:56.7850|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 11:17:11.8108|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-08 11:18:49.0406|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 11:24:31.6215|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 11:25:22.2069|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 11:30:27.3024|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-08 11:32:15.9819|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 11:32:37.4823|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 11:38:26.4575|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-08 11:38:45.8732|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 11:39:26.3085|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 11:41:44.8487|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 11:47:06.6495|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 11:50:22.7870|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 11:54:22.8486|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-08 11:54:42.9785|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 11:54:58.1714|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 12:00:02.4058|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 12:00:20.4494|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 12:12:55.2855|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 12:16:47.9102|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 16:21:24.8627|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 16:22:49.7866|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 16:23:15.7323|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 16:27:51.4482|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 16:29:29.9374|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 16:29:51.1807|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 16:47:19.4613|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-08 16:48:13.5833|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-08 16:49:07.5020|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-09 10:04:48.3377|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-09 10:05:16.1463|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-09 10:06:04.3010|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-09 10:11:33.0682|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-09 10:12:46.2685|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-09 10:14:58.0954|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-09 10:16:10.8077|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-09 10:16:28.1554|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-09 10:16:58.3726|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-09 10:17:18.7493|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-09 10:17:28.6053|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-09 10:18:40.6308|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-09 10:29:12.9581|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-09 10:30:40.5292|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-09 10:31:30.6246|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-09 10:33:42.4113|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-09 10:33:55.6323|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-09 10:40:46.2164|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-09 11:03:30.6444|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-09 11:04:16.1978|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-09 11:04:57.0849|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-09 11:05:33.8553|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-09 22:35:10.2305|INFO|PProjekat.Controllers.SubjectsController|Requesting all students
+2019-01-09 22:39:43.8031|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects
+2019-01-09 22:40:55.6542|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-09 22:40:59.7415|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-09 22:41:06.3259|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-09 22:42:58.0192|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-09 22:43:42.4578|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-09 22:43:48.4631|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-09 22:44:20.8140|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-09 22:44:51.1707|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-09 22:45:04.3615|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-09 22:45:18.5043|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-09 22:45:53.9783|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-09 22:46:54.3868|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-09 22:47:20.3542|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-09 22:47:27.8347|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-09 22:47:35.1451|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects
+2019-01-09 22:48:56.0007|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-09 22:49:04.6452|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-09 22:49:10.6186|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects
+2019-01-09 22:49:30.8027|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-09 22:49:48.0287|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-09 22:50:04.3646|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-09 22:51:00.6908|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-09 22:51:17.0678|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-09 23:22:34.5662|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-09 23:25:32.1813|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-10 10:15:39.8242|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-10 10:16:43.6788|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-10 10:17:21.7630|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-10 10:18:31.5820|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-10 10:19:06.8690|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-10 11:09:04.9155|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects
+2019-01-10 11:21:06.7108|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects
+2019-01-10 11:21:19.9025|INFO|PProjekat.Controllers.TeachersController|Requesting all teachers.
+2019-01-10 21:58:17.2927|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-10 21:58:46.2054|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-10 21:59:04.9994|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-10 21:59:12.4419|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-10 22:01:17.5130|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-10 22:01:34.1100|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-11 21:58:17.4650|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects
+2019-01-11 21:58:36.6537|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-11 21:58:41.4328|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-11 21:58:45.0747|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-11 22:00:39.1703|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-11 22:00:50.4746|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-11 22:02:04.6501|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-11 22:02:08.5223|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-11 22:02:42.8605|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-11 22:02:51.4591|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-11 22:03:12.3089|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-11 22:03:16.5203|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-11 23:09:52.1580|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-12 00:49:44.7776|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-12 00:50:25.0141|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-12 01:04:18.8945|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all taught subjects.
+2019-01-12 01:07:23.9065|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all taught subjects.
+2019-01-12 01:12:57.6930|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all taught subjects.
+2019-01-12 01:20:41.7138|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all taught subjects.
+2019-01-12 01:23:25.9473|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all taught subjects.
+2019-01-12 16:06:08.5883|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-12 16:09:33.5862|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-12 16:11:15.2329|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-12 16:13:55.4889|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-12 16:18:25.3810|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-12 16:20:27.9598|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-12 16:21:42.7359|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-12 16:52:36.4131|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all taught subjects.
+2019-01-12 16:55:51.5003|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all taught subjects.
+2019-01-12 16:59:13.5120|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all taught subjects.
+2019-01-13 12:37:57.1736|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all taught subjects.
+2019-01-13 12:45:49.4598|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-13 20:11:32.4342|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-14 18:10:05.7129|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-15 19:08:18.4109|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-15 19:09:13.2312|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-15 19:10:31.8834|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-15 19:11:06.8668|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-15 19:16:06.4791|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-15 19:16:46.9166|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-15 19:18:29.3797|INFO|PProjekat.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-15 21:11:56.7093|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-15 21:12:07.9154|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-15 21:12:17.5038|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-15 21:12:27.6363|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-15 21:14:13.3874|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-15 21:18:32.8966|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-15 21:18:40.6189|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-15 21:57:08.1312|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-15 22:00:00.9892|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-16 21:14:35.7388|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all taught subjects.
+2019-01-16 21:24:52.4296|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all taught subjects.
+2019-01-16 21:25:15.8829|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-16 22:18:24.9176|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-16 22:18:43.4706|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-16 22:18:49.0876|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-16 22:18:54.2978|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-16 22:18:58.4985|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-16 22:19:04.9729|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-16 22:19:09.8842|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-16 22:20:11.6368|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-16 22:20:16.4408|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-16 22:20:54.2381|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-16 22:22:48.4731|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by teacher.
+2019-01-16 22:23:53.2855|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by teacher.
+2019-01-16 22:24:09.2316|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by teacher.
+2019-01-16 22:24:26.5742|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by teacher.
+2019-01-16 22:25:31.4959|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by teacher.
+2019-01-16 22:27:11.7751|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects
+2019-01-17 11:32:29.6060|INFO|PProjekat.Controllers.StudentsController|Removing a student.
+2019-01-17 11:36:05.3321|INFO|PProjekat.Controllers.StudentsController|Removing a student.
+2019-01-17 11:36:42.8421|INFO|PProjekat.Controllers.StudentsController|Removing a student.
+2019-01-17 11:59:53.3736|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-18 11:10:20.2607|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-18 13:01:58.3328|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 13:04:42.9295|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 13:11:56.0688|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 13:13:35.9469|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 13:19:15.0307|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 13:21:28.0542|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 13:23:17.5767|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 13:27:45.3697|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 13:31:38.0668|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 13:38:00.1531|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 14:06:35.6819|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 14:08:58.3065|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 14:12:06.2313|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 14:21:10.2103|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 14:48:52.8420|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 14:52:36.5173|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 14:54:33.8475|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 15:47:29.4729|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-18 20:41:56.0105|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-18 20:43:50.3087|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-18 20:45:00.8457|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting teacher-subjects by ID
+2019-01-18 20:45:04.6508|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting teacher-subjects by ID
+2019-01-18 20:45:36.7876|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting teacher-subjects by ID
+2019-01-18 20:45:40.9473|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting teacher-subjects by ID
+2019-01-18 20:45:45.6609|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting teacher-subjects by ID
+2019-01-18 20:49:16.2821|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-18 20:49:28.1502|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-18 20:50:55.1527|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Deleting a subject-teacher by ID.
+2019-01-18 20:51:14.4195|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Deleting a subject-teacher by ID.
+2019-01-18 20:51:26.7127|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting teacher-subjects by ID
+2019-01-18 21:11:17.0179|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Updating a subject-teacher.
+2019-01-18 21:11:18.1547|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is updated.
+2019-01-18 21:12:43.0964|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Updating a subject-teacher.
+2019-01-18 21:12:43.1984|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is not updated.
+2019-01-18 21:13:52.1669|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Updating a subject-teacher.
+2019-01-18 21:13:53.1236|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is updated.
+2019-01-18 21:13:58.2207|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Updating a subject-teacher.
+2019-01-18 21:13:58.4297|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is not updated.
+2019-01-18 21:28:47.7424|INFO|PProjekatIzmena.Controllers.TeachersController|Subject or teacher not found.
+2019-01-18 21:29:50.9839|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacher deleted.
+2019-01-18 21:30:09.2892|INFO|PProjekatIzmena.Controllers.TeachersController|Subject or teacher not found.
+2019-01-18 21:30:31.6592|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacher not deleted.
+2019-01-18 21:32:01.8223|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-18 21:32:01.8953|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacher not deleted.
+2019-01-18 21:33:48.2863|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-18 21:33:48.3513|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacher not deleted.
+2019-01-19 14:01:46.1666|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-19 14:07:56.0788|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-19 16:11:10.1522|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-19 16:27:17.8869|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-19 16:35:57.9285|INFO|PProjekat.Controllers.ParentsController|Requesting all parents.
+2019-01-19 16:37:37.0750|INFO|PProjekat.Controllers.ParentsController|Requesting a parent by id.
+2019-01-19 16:37:44.6902|INFO|PProjekat.Controllers.ParentsController|Requesting a parent by id.
+2019-01-19 16:37:44.7282|INFO|PProjekat.Controllers.ParentsController|Parent not found.
+2019-01-19 16:38:12.0990|INFO|PProjekat.Controllers.ParentsController|Requesting a parent by id.
+2019-01-19 16:38:12.2210|INFO|PProjekatIzmena.Services.ParentService|Exception - user is not a parent.
+2019-01-19 16:52:14.2684|INFO|PProjekat.Controllers.ParentsController|Updating a parent.
+2019-01-19 16:52:14.3184|INFO|PProjekat.Controllers.ParentsController|Bad request.
+2019-01-19 16:52:32.2653|INFO|PProjekat.Controllers.ParentsController|Requesting a parent by id.
+2019-01-19 16:52:33.2374|INFO|PProjekatIzmena.Services.ParentService|Exception - user is not a parent.
+2019-01-19 16:52:33.2634|INFO|PProjekat.Controllers.ParentsController|User is not a parent.
+2019-01-19 16:52:42.4389|INFO|PProjekat.Controllers.ParentsController|Requesting all parents.
+2019-01-19 16:52:58.0405|INFO|PProjekat.Controllers.ParentsController|Updating a parent.
+2019-01-19 16:52:58.0505|INFO|PProjekat.Controllers.ParentsController|Bad request.
+2019-01-19 16:54:26.9737|INFO|PProjekat.Controllers.ParentsController|Updating a parent.
+2019-01-19 16:54:28.0311|INFO|PProjekat.Controllers.ParentsController|Parent updated.
+2019-01-19 16:54:50.7453|INFO|PProjekat.Controllers.ParentsController|Requesting a parent by id.
+2019-01-19 16:55:17.8983|INFO|PProjekat.Controllers.ParentsController|Requesting all parents.
+2019-01-19 16:56:22.4272|INFO|PProjekat.Controllers.ParentsController|Requesting all parents.
+2019-01-19 16:57:32.0966|INFO|PProjekatIzmena.Services.ParentService|Exception - Can't delete parent with children!
+2019-01-19 22:52:45.3213|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-19 22:53:15.8160|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-19 23:39:01.5326|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-19 23:39:06.5704|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-20 21:21:47.2937|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Requesting all class-teacher-subjects.
+2019-01-20 22:20:40.6232|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-20 22:20:56.9814|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-20 22:22:11.4921|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-20 22:22:16.8475|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-20 22:22:17.0185|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not created.
+2019-01-20 23:17:26.9450|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-20 23:19:15.0552|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-20 23:19:44.4619|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-20 23:19:53.8514|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-20 23:19:58.5557|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-20 23:22:27.0972|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-20 23:22:30.7434|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-20 23:22:31.1994|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not created.
+2019-01-22 11:02:42.5353|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Requesting all class-teacher-subjects.
+2019-01-22 11:03:29.4216|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-22 11:03:29.9010|INFO|PProjekatIzmena.Services.ClassSubjectTeacherService|Exception - teacher already teaches that subject in this class.
+2019-01-22 11:03:29.9648|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not created.
+2019-01-22 12:00:47.7042|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Requesting all class-teacher-subjects.
+2019-01-22 12:02:06.6796|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Requesting all class-teacher-subjects.
+2019-01-22 12:02:30.3264|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-22 12:03:46.1615|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-22 12:40:51.0734|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-22 12:41:03.5481|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-22 12:43:32.5107|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 12:46:19.7393|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 12:48:35.9923|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 12:48:56.4332|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-22 12:48:56.5130|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not updated.
+2019-01-22 12:49:25.9799|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 12:49:46.0964|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-22 12:49:46.3772|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not updated.
+2019-01-22 12:50:15.6493|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 12:50:35.8877|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-22 12:50:35.9963|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not updated.
+2019-01-22 12:52:06.2838|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-22 12:55:35.6627|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-22 12:56:04.9661|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 12:57:50.5681|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 12:58:39.2896|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 12:58:49.3533|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 12:58:49.4363|INFO|PProjekatIzmena.Services.ClassSubjectTeacherService|Exception - teacher already teaches that subject in this class.
+2019-01-22 12:58:49.4993|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not updated.
+2019-01-22 12:59:12.0376|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Requesting all class-teacher-subjects.
+2019-01-22 13:04:39.8861|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 13:05:00.4211|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-22 13:05:00.4651|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not updated.
+2019-01-22 13:05:37.2724|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 13:05:57.7513|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-22 13:05:57.8497|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not updated.
+2019-01-22 13:06:21.4413|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 13:06:41.5869|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-22 13:06:41.6713|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not updated.
+2019-01-22 13:07:04.9322|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 13:09:31.1638|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-22 13:19:02.1235|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-22 13:19:19.9865|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Requesting all class-teacher-subjects.
+2019-01-22 13:33:48.0942|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Requesting all class-teacher-subjects.
+2019-01-22 13:35:02.7534|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 13:35:35.6383|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Updating subject-teacher-class.
+2019-01-22 13:35:36.0673|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not updated.
+2019-01-22 14:09:25.4474|INFO|PProjekat.Controllers.GradesController|Requesting all grades.
+2019-01-22 14:11:11.1454|INFO|PProjekat.Controllers.GradesController|Requesting all grades.
+2019-01-22 14:28:11.8368|INFO|PProjekat.Controllers.GradesController|Requesting all grades.
+2019-01-22 14:31:41.5138|INFO|PProjekat.Controllers.GradesController|Requesting all grades.
+2019-01-22 15:54:42.4307|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-22 15:55:12.9085|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-22 15:55:52.9957|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-22 15:56:20.8603|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 15:56:21.2654|INFO|PProjekat.Controllers.GradesController|Grade not created.
+2019-01-22 15:57:38.6498|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:06:28.1865|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:07:39.7773|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:07:47.9525|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:07:48.0985|INFO|PProjekat.Controllers.GradesController|Grade not created.
+2019-01-22 16:09:03.4351|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:09:17.4216|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:09:40.1667|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:09:56.5165|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:09:59.8467|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:11:09.6732|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:12:35.5639|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:12:35.8339|INFO|PProjekat.Controllers.GradesController|Grade not created.
+2019-01-22 16:13:12.3625|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:13:12.4995|INFO|PProjekat.Controllers.GradesController|Grade not created.
+2019-01-22 16:14:49.5750|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:14:49.6220|INFO|PProjekat.Controllers.GradesController|Grade not created.
+2019-01-22 16:16:04.5565|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-22 16:17:58.3131|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-22 16:18:37.5739|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-22 16:19:43.5055|INFO|PProjekat.Controllers.GradesController|Creating grade.
+2019-01-23 15:41:59.8140|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-23 15:44:28.2777|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-23 15:46:52.2819|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-23 15:46:53.5737|INFO|PProjekatIzmena.Controllers.TeachersController|Teacher not found.
+2019-01-23 15:48:04.3494|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-23 15:48:22.9292|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-23 15:49:20.7742|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-23 15:50:27.0635|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-23 15:50:48.4807|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-23 15:51:56.7074|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-23 15:52:14.5403|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-24 12:35:50.3277|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-24 12:38:06.8867|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 12:41:24.5575|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 12:44:18.2172|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 12:47:48.9235|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 12:52:04.6501|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 12:55:04.7074|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 12:57:24.3234|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 12:58:18.7905|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 13:00:01.9194|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 13:03:21.4468|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 13:06:38.7391|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 13:09:21.9315|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 13:13:38.9612|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 13:15:46.1314|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 13:16:48.5250|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 13:18:16.9871|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 13:18:47.5408|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 13:24:58.1860|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-24 13:31:45.9771|INFO|PProjekat.Controllers.GradesController|Requesting grade by student id.
+2019-01-27 22:56:41.0824|INFO|PProjekat.Controllers.GradesController|Creating a grade.
+2019-01-27 22:57:30.6144|INFO|PProjekat.Controllers.GradesController|Creating a grade.
+2019-01-27 23:02:13.7323|INFO|PProjekat.Controllers.GradesController|Creating a grade.
+2019-01-27 23:02:50.5296|INFO|PProjekat.Controllers.GradesController|Creating a grade.
+2019-01-27 23:03:26.5048|INFO|PProjekat.Controllers.GradesController|Creating a grade.
+2019-01-28 12:38:19.5382|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-28 12:51:02.2398|INFO|PProjekat.Controllers.GradesController|Requesting all grades.
+2019-01-28 13:01:32.9679|INFO|PProjekat.Controllers.GradesController|Requesting all grades.
+2019-01-28 13:04:15.6612|INFO|PProjekat.Controllers.GradesController|Updating a grade.
+2019-01-28 13:07:34.0515|INFO|PProjekat.Controllers.GradesController|Updating a grade.
+2019-01-28 13:25:46.0750|INFO|PProjekat.Controllers.GradesController|Updating a grade.
+2019-01-28 13:26:14.5916|INFO|PProjekat.Controllers.GradesController|Updating a grade.
+2019-01-28 13:29:54.7712|INFO|PProjekat.Controllers.GradesController|Updating a grade.
+2019-01-28 13:52:10.4906|INFO|PProjekat.Controllers.GradesController|Updating a grade.
+2019-01-28 14:16:38.9236|INFO|PProjekat.Controllers.GradesController|Requesting grades by student id and semester.
+2019-01-28 14:17:12.3365|INFO|PProjekat.Controllers.GradesController|Requesting grades by student id and semester.
+2019-01-28 14:18:31.3600|INFO|PProjekat.Controllers.GradesController|Requesting grades by student id and semester.
+2019-01-28 14:18:56.6525|INFO|PProjekat.Controllers.GradesController|Requesting grades by student id and semester.
+2019-01-28 14:23:35.9464|INFO|PProjekat.Controllers.GradesController|Requesting grades by student id and semester.
+2019-01-28 14:25:23.0746|INFO|PProjekat.Controllers.GradesController|Requesting grades by student id and semester.
+2019-01-28 14:27:50.6070|INFO|PProjekat.Controllers.GradesController|Requesting grades by student id and semester.
+2019-01-28 14:28:40.4348|INFO|PProjekat.Controllers.GradesController|Requesting grades by student id and semester.
+2019-01-28 14:46:07.2687|INFO|PProjekat.Controllers.GradesController|Requesting grades by student id and semester.
+2019-01-28 21:48:54.5406|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-28 21:49:28.4664|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-28 21:49:33.4651|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-28 21:49:37.0699|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-28 21:50:12.8683|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-28 21:50:34.2877|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-28 21:50:34.3037|INFO|PProjekatIzmena.Controllers.ClassController|Class is not created.
+2019-01-28 21:51:05.3728|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-28 21:51:05.3888|INFO|PProjekatIzmena.Controllers.ClassController|Class is not created.
+2019-01-28 21:51:57.8847|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-28 21:51:58.0177|INFO|PProjekatIzmena.Controllers.ClassController|Class is created.
+2019-01-28 21:52:01.7838|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-28 21:52:01.8348|INFO|PProjekatIzmena.Controllers.ClassController|Class is not created.
+2019-01-28 22:01:24.4548|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-28 22:01:25.4012|INFO|PProjekatIzmena.Controllers.ClassController|Class already exists.
+2019-01-28 22:10:59.4517|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-28 22:11:00.3491|INFO|PProjekatIzmena.Controllers.ClassController|Class is created.
+2019-01-28 22:16:00.6647|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-28 22:16:16.9709|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-28 22:16:21.4741|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-28 22:16:35.1988|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-28 22:16:53.9838|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-28 22:16:54.0328|INFO|PProjekatIzmena.Controllers.ClassController|Class is created.
+2019-01-28 22:17:01.7208|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-28 22:17:25.2362|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-28 22:17:25.4502|INFO|PProjekatIzmena.Controllers.ClassController|Class is created.
+2019-01-28 22:17:37.7476|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-28 22:18:02.7977|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-28 22:18:53.6611|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-28 22:19:05.2183|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-28 22:19:05.9742|INFO|PProjekatIzmena.Controllers.ClassController|Class is created.
+2019-01-28 22:20:39.2408|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-28 22:20:50.5126|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-28 22:20:51.2442|INFO|PProjekatIzmena.Controllers.ClassController|Class is created.
+2019-01-28 22:22:01.3325|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-28 22:22:08.2557|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-28 22:22:16.0031|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-28 22:22:38.2807|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-28 22:22:44.8709|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-28 22:22:44.9479|INFO|PProjekatIzmena.Services.ClassService|Exception - Class with inserted label and year already exists.
+2019-01-28 22:22:45.1109|INFO|PProjekatIzmena.Controllers.ClassController|Class with year 3and label e already exists.
+2019-01-28 22:22:57.1912|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-28 22:22:57.2218|INFO|PProjekatIzmena.Services.ClassService|Exception - Class with inserted label and year already exists.
+2019-01-28 22:22:57.2738|INFO|PProjekatIzmena.Controllers.ClassController|Class with year 3and label kj already exists.
+2019-01-28 22:23:51.5328|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-28 22:23:52.8087|INFO|PProjekatIzmena.Controllers.ClassController|Class is updated.
+2019-01-28 22:24:07.9029|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-28 22:24:07.9429|INFO|PProjekatIzmena.Services.ClassService|Exception - Class with inserted label and year already exists.
+2019-01-28 22:24:08.0179|INFO|PProjekatIzmena.Controllers.ClassController|Class with year 3and label kj already exists.
+2019-01-28 22:24:16.9680|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-28 22:24:17.0440|INFO|PProjekatIzmena.Controllers.ClassController|Class is updated.
+2019-01-28 22:24:23.5830|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-28 22:24:56.3191|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-28 22:25:03.4271|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-28 22:25:16.4709|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-28 22:25:31.3669|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-28 22:25:31.4239|INFO|PProjekatIzmena.Services.ClassService|Exception - Can't delete class with students!
+2019-01-28 23:25:33.2120|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-28 23:27:00.1901|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-28 23:27:05.8760|INFO|PProjekatIzmena.Services.ClassService|Exception - Can't delete class with students!
+2019-01-28 23:39:03.8784|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-28 23:39:29.6780|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-28 23:52:25.7632|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-28 23:53:57.0058|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-28 23:55:56.7605|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 00:26:23.6969|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 00:27:03.5542|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 00:28:50.3890|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 00:29:24.8405|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 00:30:23.6863|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 00:30:36.2636|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 00:32:54.4385|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 00:37:02.3056|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 00:42:46.6624|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 00:51:12.4980|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 00:55:44.7830|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 00:57:47.2206|INFO|PProjekat.Controllers.GradesController|Requesting all grades.
+2019-01-29 00:59:19.4330|INFO|PProjekat.Controllers.GradesController|Requesting all grades.
+2019-01-29 00:59:51.7442|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 01:00:17.1891|INFO|PProjekat.Controllers.GradesController|Requesting all grades.
+2019-01-29 01:12:13.8499|INFO|PProjekat.Controllers.GradesController|Requesting all grades.
+2019-01-29 01:12:24.9575|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 11:17:38.9365|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 11:28:22.7975|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 11:29:15.6122|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 11:31:10.1501|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-29 11:38:10.9833|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-29 11:41:49.0157|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 11:51:40.8742|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 11:52:23.5870|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-29 11:52:34.2859|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-29 11:52:50.6544|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-29 11:52:50.8044|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-29 11:57:32.8914|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-29 11:58:39.0920|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 11:58:52.2715|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-29 11:58:59.4047|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-29 11:59:14.7163|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-29 11:59:14.7423|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-29 12:03:10.0785|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-29 12:03:17.6149|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not found.
+2019-01-29 12:03:44.9847|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-29 12:03:50.9557|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-29 12:03:55.5649|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-29 12:04:03.2157|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-29 12:04:07.5177|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-29 12:22:54.2226|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:24:18.5039|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:25:12.2442|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:27:53.7916|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:31:34.3005|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:31:34.3603|INFO|PProjekatIzmena.Controllers.TeachersController|Bad request.
+2019-01-29 12:33:39.1625|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:33:39.3165|INFO|PProjekatIzmena.Controllers.TeachersController|Bad request.
+2019-01-29 12:37:17.7059|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:37:17.7879|INFO|PProjekatIzmena.Controllers.TeachersController|Bad request.
+2019-01-29 12:37:30.9786|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 12:37:56.4331|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:37:56.4431|INFO|PProjekatIzmena.Controllers.TeachersController|Bad request.
+2019-01-29 12:38:12.2370|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:38:12.2510|INFO|PProjekatIzmena.Controllers.TeachersController|Bad request.
+2019-01-29 12:38:59.2677|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:38:59.6027|INFO|PProjekatIzmena.Controllers.TeachersController|Teacher updated.
+2019-01-29 12:47:39.0854|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-29 12:47:47.5470|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not found.
+2019-01-29 12:48:47.4275|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 12:49:24.6582|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:49:24.6582|INFO|PProjekatIzmena.Controllers.TeachersController|Bad request.
+2019-01-29 12:49:38.5839|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:55:10.3496|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 12:56:35.8831|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:56:40.7549|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not found.
+2019-01-29 12:57:13.4946|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 12:57:16.9989|INFO|PProjekatIzmena.Controllers.TeachersController|Teacher updated.
+2019-01-29 12:57:36.5960|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting a teacher by id.
+2019-01-29 13:09:01.8814|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 13:10:40.8025|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 13:10:40.8135|INFO|PProjekatIzmena.Controllers.TeachersController|Bad request.
+2019-01-29 13:10:50.2234|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 13:10:54.0244|INFO|PProjekatIzmena.Controllers.TeachersController|Bad request.
+2019-01-29 13:22:49.5186|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 13:24:19.4496|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 13:24:36.8559|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 13:26:12.3183|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 13:26:21.2486|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not found.
+2019-01-29 13:26:31.2276|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 13:26:51.7015|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 13:26:54.9362|INFO|PProjekatIzmena.Controllers.TeachersController|Teacher updated.
+2019-01-29 13:27:09.5593|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 13:27:13.5733|INFO|PProjekatIzmena.Controllers.TeachersController|Teacher updated.
+2019-01-29 13:29:58.4486|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 13:30:20.2509|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 13:30:33.1049|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 13:33:31.9029|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 13:34:16.7105|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 13:36:50.5266|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 13:37:22.5665|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 13:39:58.4947|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 13:40:24.8942|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 13:41:32.3397|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 13:41:39.3340|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 13:43:06.8722|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 13:43:30.0884|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 13:48:50.5340|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 13:49:11.6746|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 13:49:21.7819|INFO|PProjekatIzmena.Controllers.TeachersController|Teacher updated.
+2019-01-29 13:49:29.1679|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 13:49:46.3602|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 13:49:58.6790|INFO|PProjekatIzmena.Controllers.TeachersController|Updating a teacher.
+2019-01-29 13:50:01.6517|INFO|PProjekatIzmena.Controllers.TeachersController|Teacher updated.
+2019-01-29 14:09:22.2472|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-29 14:09:26.2834|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-29 14:09:44.3869|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 14:10:03.7876|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 14:25:33.4251|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-29 14:26:24.5665|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 14:26:30.6718|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 14:26:44.0259|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-29 14:26:57.7369|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 15:21:50.8273|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 15:21:51.7811|INFO|PProjekatIzmena.Services.StudentService|Exception - user with id 871a4d71-1cbb-48bc-9ad6-a1c69c4cf25f is not a student
+2019-01-29 15:46:58.0259|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-29 15:49:19.7170|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 15:49:20.1640|INFO|PProjekatIzmena.Services.StudentService|Exception - user with id 871a4d71-1cbb-48bc-9ad6-a1c69c4cf25f is not a student
+2019-01-29 15:49:28.6054|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 15:51:03.3102|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 15:51:11.7216|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-29 15:51:28.1679|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 15:53:15.4926|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 15:54:00.5555|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 15:55:02.5171|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 15:55:12.1005|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 15:55:12.5936|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-29 15:55:29.8982|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 15:55:30.1453|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-29 15:55:58.4544|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 15:55:58.6545|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-29 15:56:11.9430|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 15:56:12.1530|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-29 15:57:08.0401|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 15:57:08.2141|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-29 15:57:17.0964|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 15:57:17.2895|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-29 15:57:28.0879|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 15:57:28.2179|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-29 16:00:03.7101|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 16:00:03.7831|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-29 16:00:10.7395|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 16:00:27.5175|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 16:00:27.6935|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-29 16:00:41.1893|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 16:00:53.8550|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 16:00:53.9610|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-29 16:07:56.0765|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 16:07:56.1415|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-29 16:08:06.3290|INFO|PProjekat.Controllers.StudentsController|Updating student by ID
+2019-01-29 16:08:06.4550|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-29 16:08:11.5063|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 16:44:21.3826|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 16:44:33.7073|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 16:44:39.0966|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 16:44:49.6312|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 16:44:52.8604|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 16:46:48.2680|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-29 16:47:10.3243|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-29 16:47:10.7303|INFO|PProjekat.Controllers.StudentsController|Student added to class.
+2019-01-29 16:47:16.3336|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-29 16:47:16.4116|INFO|PProjekatIzmena.Services.StudentService|Exception - student with id be9aea15-aeec-4fa7-a028-c26182bf3b9e already attends the class with id 5
+2019-01-29 16:47:16.5906|INFO|PProjekat.Controllers.StudentsController|Student not added to class.
+2019-01-29 16:47:31.4585|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID
+2019-01-29 16:58:13.3042|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_f06fda8a-5a92-489d-a4f9-454250c69719
+2019-01-29 17:00:03.3575|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_d221a811-4dbf-47e6-94d0-824d88853431
+2019-01-29 17:00:20.0434|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_f6ff41c3-bdff-438c-ab30-c02d023a0057
+2019-01-29 17:00:54.0084|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_c912b3a8-701d-49e7-a46e-33dd522aea0b
+2019-01-29 17:14:59.3921|INFO|PProjekat.Controllers.StudentsController|Removing a student with id 5d14dd74-c71e-43ca-8689-78f9071ab5fc
+2019-01-29 17:15:07.1108|INFO|PProjekat.Controllers.StudentsController|Requesting student by IDbe9aea15-aeec-4fa7-a028-c26182bf3b9e
+2019-01-29 17:15:35.4271|INFO|PProjekat.Controllers.StudentsController|Removing a student with id a36cf4be-73ea-4229-a080-03621e31c4e3"
+2019-01-29 17:15:41.0420|INFO|PProjekat.Controllers.StudentsController|Removing a student with id a36cf4be-73ea-4229-a080-03621e31c4e3
+2019-01-29 17:15:41.5730|INFO|PProjekat.Controllers.StudentsController|Student not removed.
+2019-01-29 17:16:50.1847|INFO|PProjekat.Controllers.StudentsController|Removing a student with id a36cf4be-73ea-4229-a080-03621e31c4e3
+2019-01-29 17:22:29.1353|INFO|PProjekat.Controllers.StudentsController|Removing a student with id a36cf4be-73ea-4229-a080-03621e31c4e3
+2019-01-29 17:22:51.4396|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 17:23:18.4041|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 17:23:21.5943|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 17:23:23.8415|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 17:23:30.4298|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 17:23:33.8630|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 17:23:38.6153|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 17:23:43.1466|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 17:25:04.8452|INFO|PProjekat.Controllers.StudentsController|Removing a student with id a36cf4be-73ea-4229-a080-03621e31c4e3
+2019-01-29 17:25:21.0932|INFO|PProjekat.Controllers.StudentsController|Requesting student by IDa36cf4be-73ea-4229-a080-03621e31c4e3
+2019-01-29 17:26:10.7490|INFO|PProjekat.Controllers.GradesController|Requesting all grades.
+2019-01-29 17:35:08.4088|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 17:35:16.3392|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-29 18:34:43.7853|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-29 18:34:52.6497|INFO|PProjekat.Controllers.ParentsController|Requesting all parents.
+2019-01-29 18:35:04.4899|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-29 18:36:29.3430|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-29 18:38:21.0590|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-29 18:41:32.8536|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-29 18:46:00.0809|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-29 18:46:01.1209|INFO|PProjekatIzmena.Services.ParentService|Exception - user is not a parent.
+2019-01-29 18:46:34.1418|INFO|PProjekat.Controllers.ParentsController|Requesting all parents.
+2019-01-29 18:46:45.7645|INFO|PProjekat.Controllers.ParentsController|Requesting a parent by id.
+2019-01-29 18:46:45.7995|INFO|PProjekat.Controllers.ParentsController|Parent not found.
+2019-01-29 18:47:10.9809|INFO|PProjekat.Controllers.ParentsController|Requesting a parent by id.
+2019-01-29 18:47:42.4747|INFO|PProjekat.Controllers.ParentsController|Updating a parent.
+2019-01-29 18:47:42.5197|INFO|PProjekat.Controllers.ParentsController|Bad request.
+2019-01-29 18:47:58.5876|INFO|PProjekat.Controllers.ParentsController|Updating a parent.
+2019-01-29 18:47:58.6516|INFO|PProjekat.Controllers.ParentsController|Bad request.
+2019-01-29 18:48:07.6832|INFO|PProjekat.Controllers.ParentsController|Updating a parent.
+2019-01-29 18:48:07.8242|INFO|PProjekat.Controllers.ParentsController|Parent updated.
+2019-01-29 18:53:08.8934|INFO|PProjekat.Controllers.ParentsController|Updating a parent.
+2019-01-29 18:53:09.7654|INFO|PProjekat.Controllers.ParentsController|Parent updated.
+2019-01-29 18:53:51.9479|INFO|PProjekat.Controllers.ParentsController|Updating a parent.
+2019-01-29 18:53:52.1339|INFO|PProjekat.Controllers.ParentsController|Parent updated.
+2019-01-29 18:54:57.1226|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 18:55:14.2766|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-29 18:55:30.8555|INFO|PProjekat.Controllers.ParentsController|Updating a parent.
+2019-01-29 18:55:31.8746|INFO|PProjekat.Controllers.ParentsController|Parent updated.
+2019-01-29 18:59:35.4050|INFO|PProjekat.Controllers.ParentsController|Updating a parent.
+2019-01-29 18:59:35.7060|INFO|PProjekat.Controllers.ParentsController|Parent updated.
+2019-01-29 19:01:21.8893|INFO|PProjekatIzmena.Services.ParentService|Exception - Can't delete parent with children!
+2019-01-29 19:01:53.6037|INFO|PProjekatIzmena.Services.ParentService|Exception - user is not a parent.
+2019-01-29 19:02:16.7810|INFO|PProjekat.Controllers.ParentsController|Requesting a parent by id.
+2019-01-29 19:02:21.3805|INFO|PProjekat.Controllers.ParentsController|Requesting a parent by id.
+2019-01-29 19:02:21.5465|INFO|PProjekatIzmena.Services.ParentService|Exception - user is not a parent.
+2019-01-29 19:02:21.6515|INFO|PProjekat.Controllers.ParentsController|User is not a parent.
+2019-01-29 19:57:09.7710|INFO|PProjekat.Controllers.GradesController|Requesting all grades.
+2019-01-29 22:04:11.3157|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_cc312573-050b-40c6-b747-8ee8f792c7a6
+2019-01-29 22:04:30.9928|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_cdf28b16-aaf7-4b28-97cb-4225201b4ba6
+2019-01-29 22:05:44.9211|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_12ccc584-bdfb-4162-96e2-da0f83ddb7a1
+2019-01-29 22:08:34.7688|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_9a23d251-ff1b-4316-896b-8d7e3c6ae953
+2019-01-29 22:09:26.2607|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_6bd54ad7-8fda-4144-aad8-1bf45e837b4f
+2019-01-29 22:15:00.9649|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_5bdc08b8-9edb-4f71-8d28-092ce8f7fb65
+2019-01-29 22:17:34.4494|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_b7c8daa7-9d48-4ca7-b78d-f9b64f2f4c48
+2019-01-29 22:29:23.0944|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_a4d9bb52-1317-4fc9-b207-3eef99a136c3
+2019-01-29 22:40:14.1426|INFO|PProjekat.Controllers.StudentsController|Requesting student by IDa36cf4be-73ea-4229-a080-03621e31c4e3
+2019-01-29 22:40:31.5896|INFO|PProjekat.Controllers.StudentsController|Requesting student by IDbe9aea15-aeec-4fa7-a028-c26182bf3b9e
+2019-01-30 00:11:34.3337|INFO|PProjekat.Controllers.GradesController|Creating a grade.
+2019-01-30 00:11:50.2347|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-30 00:12:40.6095|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-30 00:13:09.5642|INFO|PProjekat.Controllers.GradesController|Creating a grade.
+2019-01-30 00:13:09.8742|INFO|PProjekatIzmena.Services.StudentService|Exception - user with id 758b1010-6736-41b0-b2b6-ca71205f2fdf is not a student
+2019-01-30 00:13:09.9302|INFO|PProjekat.Controllers.GradesController|Grade not created.
+2019-01-30 00:13:55.1630|INFO|PProjekat.Controllers.GradesController|Creating a grade.
+2019-01-30 00:13:55.5060|INFO|PProjekat.Controllers.GradesController|Grade not created.
+2019-01-30 00:14:27.3384|INFO|PProjekat.Controllers.GradesController|Creating a grade.
+2019-01-30 00:14:27.6865|INFO|PProjekat.Controllers.GradesController|Grade not created.
+2019-01-30 00:14:57.1446|INFO|PProjekat.Controllers.GradesController|Creating a grade.
+2019-01-30 00:14:57.5796|INFO|PProjekat.Controllers.GradesController|Grade not created.
+2019-01-30 00:15:26.0227|INFO|PProjekat.Controllers.GradesController|Creating a grade.
+2019-01-30 11:57:58.7514|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects
+2019-01-30 11:58:07.6353|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-30 11:58:12.4717|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-30 11:58:44.9670|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by teacher.
+2019-01-30 11:59:34.9433|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-30 11:59:56.2090|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by teacher.
+2019-01-30 12:19:11.8623|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by teacher.
+2019-01-30 12:19:12.9994|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-30 12:19:13.0484|INFO|PProjekat.Controllers.SubjectsController|Subject not found.
+2019-01-30 12:19:25.6101|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-30 12:19:41.7880|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by teacher.
+2019-01-30 12:20:04.1023|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by teacher.
+2019-01-30 12:25:09.4498|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-30 12:25:24.6496|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-30 12:25:47.6819|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-30 12:26:16.3116|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-30 12:26:44.5422|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-30 12:29:33.9799|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-30 12:32:11.2649|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-30 12:34:26.3256|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-30 12:37:09.0669|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-30 12:38:30.8946|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-30 12:39:52.7063|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-30 12:40:08.4172|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-30 12:40:41.4271|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-30 12:41:07.5186|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-30 12:41:11.2058|INFO|PProjekat.Controllers.SubjectsController|Subject is not added.
+2019-01-30 12:42:38.0997|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-30 12:42:52.5376|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-30 12:43:11.9827|INFO|PProjekat.Controllers.SubjectsController|Creating a new subject.
+2019-01-30 12:43:12.0647|INFO|PProjekat.Controllers.SubjectsController|Subject is not added.
+2019-01-30 13:07:46.6160|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-30 13:07:46.6750|INFO|PProjekat.Controllers.SubjectsController|Subject with id 9 is not found.
+2019-01-30 13:07:53.9554|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-30 13:07:53.9704|INFO|PProjekat.Controllers.SubjectsController|Bad request.
+2019-01-30 13:07:59.7958|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-30 13:07:59.8558|INFO|PProjekat.Controllers.SubjectsController|Subject with id 2 is updated.
+2019-01-30 13:08:20.3710|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-30 13:14:04.7456|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-30 13:14:05.5477|INFO|PProjekatIzmena.Services.SubjectService|Exception - Subject with that name and year already exists exists.
+2019-01-30 13:14:05.6007|INFO|PProjekat.Controllers.SubjectsController|Subject with id 2 is not updated.
+2019-01-30 13:14:30.7071|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-30 13:14:30.9701|INFO|PProjekat.Controllers.SubjectsController|Subject with id 2 is not updated.
+2019-01-30 13:15:57.6221|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-30 13:17:41.6341|INFO|PProjekat.Controllers.SubjectsController|Subject with id 2 is not updated.
+2019-01-30 13:21:48.6012|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-30 13:21:55.6766|INFO|PProjekatIzmena.Services.SubjectService|Exception - Subject with that name and year already exists exists.
+2019-01-30 13:21:56.8337|INFO|PProjekat.Controllers.SubjectsController|Subject with id 2 is not updated.
+2019-01-30 13:26:38.6058|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-30 13:26:47.8053|INFO|PProjekat.Controllers.SubjectsController|Subject with id 2 is updated.
+2019-01-30 13:26:57.8409|INFO|PProjekat.Controllers.SubjectsController|Updating a subject.
+2019-01-30 13:27:04.3162|INFO|PProjekatIzmena.Services.SubjectService|Exception - Subject with that name and year already exists exists.
+2019-01-30 13:27:06.5084|INFO|PProjekat.Controllers.SubjectsController|Subject with id 2 is not updated.
+2019-01-30 13:27:33.2429|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects
+2019-01-30 13:28:46.7081|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-30 13:43:57.0982|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-30 13:43:58.0722|INFO|PProjekat.Controllers.SubjectsController|Subject with id  is removed.
+2019-01-30 13:44:05.0056|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-30 13:44:05.0676|INFO|PProjekat.Controllers.SubjectsController|Subject with id  is not found.
+2019-01-30 13:44:50.1782|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-30 13:44:50.3492|INFO|PProjekat.Controllers.SubjectsController|Subject with id  is not deleted.
+2019-01-30 13:45:33.6667|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-30 13:45:33.8767|INFO|PProjekat.Controllers.SubjectsController|Subject with id  is removed.
+2019-01-30 14:11:03.3280|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-30 14:11:23.8192|INFO|PProjekat.Controllers.SubjectsController|Subject with id  is not deleted.
+2019-01-30 14:12:27.1978|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-30 14:12:31.4971|INFO|PProjekat.Controllers.SubjectsController|Subject with id  is not found.
+2019-01-30 14:12:47.5901|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-30 14:12:47.7812|INFO|PProjekat.Controllers.SubjectsController|Subject with id  is not deleted.
+2019-01-30 14:13:12.8743|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-30 14:19:10.1974|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-30 14:19:14.9738|INFO|PProjekat.Controllers.SubjectsController|Subject with id  is removed.
+2019-01-30 14:19:26.8648|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-30 14:19:30.0227|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-30 14:22:39.2844|INFO|PProjekat.Controllers.SubjectsController|Requesting subject by ID
+2019-01-30 14:22:52.6280|INFO|PProjekat.Controllers.SubjectsController|Deleting a subject by ID.
+2019-01-30 14:22:52.8170|INFO|PProjekat.Controllers.SubjectsController|Subject with id  is not deleted.
+2019-01-30 14:54:35.2708|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by student.
+2019-01-30 14:54:36.3470|INFO|PProjekat.Controllers.SubjectsController|Subject not found.
+2019-01-30 14:55:48.0526|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-30 14:56:08.7399|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by student.
+2019-01-30 14:56:39.0058|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by student.
+2019-01-30 20:32:31.4573|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by student.
+2019-01-30 20:33:23.5512|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-30 20:33:54.6090|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by student.
+2019-01-30 20:33:54.8560|INFO|PProjekatIzmena.Services.StudentService|Exception - user with id 2dbf20c6-7312-4c3a-8a4f-56d5a3e85f25 is not a student
+2019-01-30 20:33:54.8820|INFO|PProjekat.Controllers.SubjectsController|Subject not found.
+2019-01-30 20:34:04.4066|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by student.
+2019-01-30 20:34:04.5546|INFO|PProjekat.Controllers.SubjectsController|Subject not found.
+2019-01-30 20:36:26.6341|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by student.
+2019-01-30 20:36:28.6182|INFO|PProjekat.Controllers.SubjectsController|Subject not found.
+2019-01-30 20:38:12.7995|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by student.
+2019-01-30 21:20:33.7240|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-30 21:21:04.5674|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting teacher-subjects by ID
+2019-01-30 21:21:09.1194|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting teacher-subjects by ID
+2019-01-30 21:21:15.7699|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting teacher-subjects by ID
+2019-01-30 21:27:14.1601|INFO|PProjekatIzmena.Controllers.TeachersController|Creating subject-teacher.
+2019-01-30 21:27:14.4791|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not found.
+2019-01-30 21:27:14.5271|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacjer not created.
+2019-01-30 21:27:48.4190|INFO|PProjekatIzmena.Controllers.TeachersController|Creating subject-teacher.
+2019-01-30 21:27:58.1348|INFO|PProjekatIzmena.Controllers.TeachersController|Creating subject-teacher.
+2019-01-30 21:27:58.3768|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacjer not created.
+2019-01-30 21:28:27.7695|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by teacher.
+2019-01-30 21:29:28.5078|INFO|PProjekatIzmena.Controllers.TeachersController|Creating subject-teacher.
+2019-01-30 21:29:40.5284|INFO|PProjekatIzmena.Controllers.TeachersController|Creating subject-teacher.
+2019-01-30 21:29:40.7274|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacjer not created.
+2019-01-30 21:30:57.5405|INFO|PProjekat.Controllers.SubjectsController|Requesting all subjects by teacher.
+2019-01-30 21:31:15.7904|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-30 21:31:40.9500|INFO|PProjekatIzmena.Controllers.TeachersController|Creating subject-teacher.
+2019-01-30 21:31:41.0380|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-30 21:31:41.0680|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacjer not created.
+2019-01-30 21:31:53.9086|INFO|PProjekatIzmena.Controllers.TeachersController|Creating subject-teacher.
+2019-01-30 21:31:53.9436|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not found.
+2019-01-30 21:31:54.0196|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacjer not created.
+2019-01-30 21:32:00.6297|INFO|PProjekatIzmena.Controllers.TeachersController|Creating subject-teacher.
+2019-01-30 21:32:00.7957|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-30 21:32:00.8767|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacjer not created.
+2019-01-30 21:34:07.1126|INFO|PProjekatIzmena.Controllers.TeachersController|Creating subject-teacher.
+2019-01-30 21:34:08.3229|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not a teacher
+2019-01-30 21:34:08.3817|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacjer not created.
+2019-01-30 21:37:15.3216|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Deleting a subject-teacher by ID.
+2019-01-30 21:37:16.3099|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is deleted.
+2019-01-30 21:37:26.8840|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting teacher-subjects by ID
+2019-01-30 21:39:41.5116|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Deleting a subject-teacher by ID.
+2019-01-30 21:39:42.4110|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher not found.
+2019-01-30 21:39:53.9128|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Deleting a subject-teacher by ID.
+2019-01-30 21:39:54.2358|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is deleted.
+2019-01-30 21:40:00.9384|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting teacher-subjects by ID
+2019-01-30 21:40:30.3897|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Updating a subject-teacher.
+2019-01-30 21:40:30.7217|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not found.
+2019-01-30 21:40:30.7677|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is not updated.
+2019-01-30 21:41:03.1306|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Updating a subject-teacher.
+2019-01-30 21:41:03.5016|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is updated.
+2019-01-30 21:41:10.4411|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Updating a subject-teacher.
+2019-01-30 21:41:10.6901|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is not updated.
+2019-01-30 21:44:50.9732|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Updating a subject-teacher.
+2019-01-30 21:44:52.2939|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is updated.
+2019-01-30 21:44:55.9303|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Updating a subject-teacher.
+2019-01-30 21:44:56.0403|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is updated.
+2019-01-30 21:44:59.4217|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Updating a subject-teacher.
+2019-01-30 21:44:59.5267|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is updated.
+2019-01-30 21:45:15.6785|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Updating a subject-teacher.
+2019-01-30 21:45:15.8845|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is not updated.
+2019-01-30 22:22:04.4389|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not found.
+2019-01-30 22:22:04.5389|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacher not deleted.
+2019-01-30 22:22:20.8889|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-30 22:22:37.5598|INFO|PProjekatIzmena.Controllers.TeachersController|Subject or teacher not found.
+2019-01-30 22:23:01.2572|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacher deleted.
+2019-01-30 22:24:04.1578|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers by subject.
+2019-01-30 22:24:54.4966|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacher deleted.
+2019-01-30 22:25:44.6135|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-30 22:46:27.2476|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-30 22:46:53.8481|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Deleting a subject-teacher by ID.
+2019-01-30 22:46:54.0041|INFO|PProjekatIzmena.Services.SubjectTeacherService|Exception - Subject is taugt in some class. Subject-teacher with id 3 can't be deleted.
+2019-01-30 22:49:21.6216|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Deleting a subject-teacher by ID.
+2019-01-30 22:49:22.3476|INFO|PProjekatIzmena.Services.SubjectTeacherService|Exception - Subject is taugt in some class. Subject-teacher with id 3 can't be deleted.
+2019-01-30 22:49:22.3936|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is not deleted.
+2019-01-30 22:49:39.8496|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Deleting a subject-teacher by ID.
+2019-01-30 22:49:40.2796|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Subject-teacher is deleted.
+2019-01-30 22:49:58.2677|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting teacher-subjects by ID
+2019-01-30 22:50:34.7037|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-30 22:50:56.4660|INFO|PProjekatIzmena.Services.SubjectTeacherService|Exception - Teacher witd id 7dba2bfc-71fa-4a1b-85a7-6072ed369c6e teaches subject with id 3 in some classes.
+2019-01-30 22:50:56.5260|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacher not deleted.
+2019-01-30 22:51:03.5134|INFO|PProjekatIzmena.Controllers.TeachersController|Subject or teacher not found.
+2019-01-30 22:51:49.8710|INFO|PProjekatIzmena.Controllers.TeachersController|Subject-teacher deleted.
+2019-01-30 22:52:06.9910|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-30 23:05:26.6466|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-30 23:06:55.2659|INFO|PProjekatIzmena.Controllers.SubjectTeachersController|Requesting all teacher-subjects.
+2019-01-30 23:15:53.0245|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-30 23:16:16.5379|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-30 23:16:22.7992|INFO|PProjekatIzmena.Controllers.ClassController|Requesting class by ID
+2019-01-30 23:16:42.8874|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-30 23:16:43.0164|INFO|PProjekatIzmena.Controllers.ClassController|Class is created.
+2019-01-30 23:16:50.6948|INFO|PProjekatIzmena.Controllers.ClassController|Inserting a new class.
+2019-01-30 23:16:50.7098|INFO|PProjekatIzmena.Services.ClassService|Exception - Class with inserted label and year already exists!
+2019-01-30 23:16:50.7748|INFO|PProjekatIzmena.Controllers.ClassController|Class with year 3and label fsry already exists.
+2019-01-30 23:17:07.8578|INFO|PProjekatIzmena.Controllers.ClassController|Updating a class.
+2019-01-30 23:17:07.9998|INFO|PProjekatIzmena.Controllers.ClassController|Class is updated.
+2019-01-30 23:17:16.4063|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-30 23:17:37.4915|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-30 23:17:40.3207|INFO|PProjekatIzmena.Controllers.ClassController|Removing a class.
+2019-01-30 23:17:47.7951|INFO|PProjekatIzmena.Controllers.ClassController|Requesting classes
+2019-01-30 23:36:32.5784|INFO|PProjekat.Controllers.StudentsController|Updating student by ID be9aea15-aeec-4fa7-a028-c26182bf3b9e
+2019-01-30 23:36:37.9527|INFO|PProjekat.Controllers.StudentsController|Bad request.
+2019-01-30 23:36:46.6652|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-30 23:37:26.1355|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-30 23:37:39.4043|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-30 23:37:39.5803|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-30 23:39:22.2111|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-30 23:39:23.8142|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-30 23:39:47.3846|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-30 23:39:47.5096|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-30 23:45:49.2853|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-30 23:45:50.8684|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-30 23:46:12.6476|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-30 23:46:12.7136|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-31 01:19:01.5983|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 01:19:02.9494|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-31 01:19:18.7518|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-31 01:19:42.8530|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 01:19:42.9830|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-31 01:51:59.4727|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 01:52:01.2388|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-31 01:52:23.3541|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-31 01:53:17.8192|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 01:53:17.9722|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-31 01:59:34.5724|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-31 02:00:43.8683|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-31 02:01:00.0307|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-31 02:01:10.8269|INFO|PProjekatIzmena.Filters.ValidateModelAttribute|Model state is not valid.
+2019-01-31 02:07:50.2378|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 02:07:51.7859|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-31 12:09:52.5333|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Requesting all class-teacher-subjects.
+2019-01-31 12:45:50.8430|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-31 12:45:51.7644|INFO|PProjekatIzmena.Services.TeacherService|Exception - user is not found.
+2019-01-31 12:45:51.8112|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not created.
+2019-01-31 12:46:13.1762|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-31 12:46:34.6548|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-31 12:46:35.2554|INFO|PProjekatIzmena.Services.ClassSubjectTeacherService|Exception - teacher doesn't teaches that subject in that year.
+2019-01-31 12:46:35.2866|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not created.
+2019-01-31 12:47:09.9821|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-31 12:47:10.2371|INFO|PProjekatIzmena.Services.ClassSubjectTeacherService|Exception - teacher doesn't teaches that subject in that year.
+2019-01-31 12:47:10.2651|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not created.
+2019-01-31 12:47:17.4293|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-31 12:47:39.0394|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-31 12:47:39.1484|INFO|PProjekatIzmena.Services.ClassSubjectTeacherService|Exception - teacher already teaches that subject in this class.
+2019-01-31 12:47:39.1994|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not created.
+2019-01-31 12:48:44.6840|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-31 12:48:48.0705|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-31 12:48:48.2836|INFO|PProjekatIzmena.Services.ClassSubjectTeacherService|Exception - teacher already teaches that subject in this class.
+2019-01-31 12:48:48.3256|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not created.
+2019-01-31 12:54:56.5263|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Requesting class-subject-teacher by id
+2019-01-31 12:54:57.2755|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Class-subject-teacher with id 6 found.
+2019-01-31 12:56:22.8378|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Requesting class-subject-teacher by id
+2019-01-31 12:56:23.8636|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Class-subject-teacher with id 6 found.
+2019-01-31 12:58:54.2367|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-31 12:58:55.0837|INFO|PProjekatIzmena.Services.ClassSubjectTeacherService|Exception - teacher already teaches that subject in this class.
+2019-01-31 12:58:55.1159|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not created.
+2019-01-31 12:59:10.5202|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Requesting all class-teacher-subjects.
+2019-01-31 13:11:03.6435|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-31 13:11:10.2883|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Creating subject-teacher-class.
+2019-01-31 13:11:10.5843|INFO|PProjekatIzmena.Services.ClassSubjectTeacherService|Exception - teacher already teaches that subject in this class.
+2019-01-31 13:11:10.6311|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Subject-teacher-class not created.
+2019-01-31 13:11:49.0943|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Requesting class-subject-teacher by id
+2019-01-31 13:11:49.1433|INFO|PProjekat.Controllers.ClassSubjectTeachersController|Class-subject-teacher with id 8 doesn't exist.
+2019-01-31 13:43:05.0377|INFO|PProjekat.Controllers.StudentsController|Requesting all students
+2019-01-31 13:43:23.3796|INFO|PProjekat.Controllers.StudentsController|Requesting student by IDbe9aea15-aeec-4fa7-a028-c26182bf3b9e
+2019-01-31 13:43:47.9782|INFO|PProjekat.Controllers.StudentsController|Requesting student by ID1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 13:45:11.2620|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 13:45:11.6568|INFO|PProjekat.Controllers.StudentsController|Student updated.
+2019-01-31 13:46:09.2081|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-31 13:46:38.1947|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-31 13:46:43.9830|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-31 13:47:15.2186|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-31 13:47:15.3406|INFO|PProjekat.Controllers.StudentsController|Student not added to class.
+2019-01-31 13:47:43.0362|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-31 13:47:43.2122|INFO|PProjekat.Controllers.StudentsController|Student added to class.
+2019-01-31 13:47:51.4982|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-31 13:47:51.5452|INFO|PProjekatIzmena.Services.StudentService|Exception - student with id 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22 already attends the class with id 3
+2019-01-31 13:47:51.6672|INFO|PProjekat.Controllers.StudentsController|Student not added to class.
+2019-01-31 13:48:01.2949|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-31 13:48:01.3309|INFO|PProjekat.Controllers.StudentsController|Student added to class.
+2019-01-31 13:50:04.7564|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-31 13:50:05.9202|INFO|PProjekatIzmena.Services.StudentService|Exception - student with id 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22 already attends the class with id 4
+2019-01-31 13:50:05.9818|INFO|PProjekat.Controllers.StudentsController|Student not added to class.
+2019-01-31 13:51:04.0050|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-31 13:51:04.1230|INFO|PProjekatIzmena.Services.StudentService|Exception - user with id 13395314-7e8f-4782-8350-7c01f20442c2 is not a student
+2019-01-31 13:51:04.1680|INFO|PProjekat.Controllers.StudentsController|Student not added to class.
+2019-01-31 13:52:04.8411|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_6bd88115-39d5-494a-a9bf-bd3201dd7896
+2019-01-31 13:58:37.7735|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_afe6dad7-baa4-46e1-91ae-759fb95854c3
+2019-01-31 13:58:38.8281|INFO|PProjekat.Controllers.StudentsController|Added an image to student with id 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 13:59:08.0988|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-31 13:59:38.6875|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-31 19:09:55.7159|INFO|PProjekat.Controllers.ParentsController|Requesting all parents.
+2019-01-31 19:10:14.3730|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-31 19:52:38.1315|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-31 19:54:35.5068|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-31 19:55:53.9035|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-31 20:05:20.6098|INFO|PProjekat.Controllers.ParentsController|Requesting all parents.
+2019-01-31 20:05:40.4298|INFO|PProjekat.Controllers.StudentsController|Requesting all students by parent.
+2019-01-31 20:05:40.4504|INFO|PProjekat.Controllers.StudentsController|User with id 2e450447-4202-479e-855b-d87e3c02b3b2 is not authorized!
+2019-01-31 21:30:48.2183|INFO|PProjekat.Controllers.StudentsController| User with id 2e450447-4202-479e-855b-d87e3c02b3b2 is requesting student by ID93a119fa-0389-44ef-bfe5-e10c8bd0591f
+2019-01-31 21:36:24.6110|INFO|PProjekat.Controllers.StudentsController| User with id 93a119fa-0389-44ef-bfe5-e10c8bd0591f is requesting student by ID93a119fa-0389-44ef-bfe5-e10c8bd0591f
+2019-01-31 21:42:34.3262|INFO|PProjekat.Controllers.StudentsController| User with id 93a119fa-0389-44ef-bfe5-e10c8bd0591f is requesting student by ID93a119fa-0389-44ef-bfe5-e10c8bd0591f
+2019-01-31 21:44:10.8538|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-31 21:44:11.1198|INFO|PProjekat.Controllers.StudentsController|Student added to class.
+2019-01-31 21:44:16.8509|INFO|PProjekat.Controllers.StudentsController|Add a student to class
+2019-01-31 21:44:16.9349|INFO|PProjekatIzmena.Services.StudentService|Exception - student with id 93a119fa-0389-44ef-bfe5-e10c8bd0591f already attends the class with id 4
+2019-01-31 21:44:17.2439|INFO|PProjekat.Controllers.StudentsController|Student not added to class.
+2019-01-31 21:45:43.8693|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_5ac3b9e0-864d-40d9-b132-92eb0e5493cc
+2019-01-31 21:45:43.9683|INFO|PProjekat.Controllers.StudentsController|Added an image to student with id 93a119fa-0389-44ef-bfe5-e10c8bd0591f
+2019-01-31 21:45:53.1108|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_36ac73cf-9aad-4335-b2b7-5230dfefeb60
+2019-01-31 21:45:53.1328|INFO|PProjekat.Controllers.StudentsController|Added an image to student with id 93a119fa-0389-44ef-bfe5-e10c8bd0591f
+2019-01-31 22:42:00.0479|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_90af603d-c62b-4b98-bcec-b9e589fafd5d
+2019-01-31 22:42:00.4296|INFO|PProjekat.Controllers.StudentsController|Added an image to student with id 93a119fa-0389-44ef-bfe5-e10c8bd0591f
+2019-01-31 22:42:10.6979|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_80460ec3-2ab0-44db-8082-3bb70086569f
+2019-01-31 22:42:10.8949|INFO|PProjekat.Controllers.StudentsController|Added an image to student with id 93a119fa-0389-44ef-bfe5-e10c8bd0591f
+2019-01-31 22:42:14.3979|INFO|PProjekat.Controllers.StudentsController|Server file path for inserted image: C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\App_Data\BodyPart_5648b950-1605-4646-9c78-b02ff059e691
+2019-01-31 22:42:14.4389|INFO|PProjekat.Controllers.StudentsController|Added an image to student with id 93a119fa-0389-44ef-bfe5-e10c8bd0591f
+2019-01-31 22:43:14.6096|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 22:43:16.0527|INFO|PProjekat.Controllers.StudentsController|Student with id 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22 is updated.
+2019-01-31 22:43:40.4363|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 22:43:54.9887|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 22:43:55.2367|INFO|PProjekat.Controllers.StudentsController|Student with id 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22 is updated.
+2019-01-31 22:44:29.2415|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 22:44:29.7989|INFO|PProjekat.Controllers.StudentsController|Student with id 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22 is updated.
+2019-01-31 22:44:55.0286|INFO|PProjekat.Controllers.StudentsController|Updating student by ID 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22
+2019-01-31 22:44:55.4832|INFO|PProjekat.Controllers.StudentsController|Student with id 1a2b6a6f-4aae-4eb2-9fa8-7ebf50856e22 is updated.
+2019-01-31 22:45:56.3556|INFO|PProjekat.Controllers.StudentsController|Requesting all students by class.
+2019-01-31 22:46:35.5599|INFO|PProjekat.Controllers.StudentsController|Removing a student with id a36cf4be-73ea-4229-a080-03621e31c4e3
+2019-01-31 22:46:44.4672|INFO|PProjekat.Controllers.StudentsController|User with id 93a119fa-0389-44ef-bfe5-e10c8bd0591f is requesting student by ID93a119fa-0389-44ef-bfe5-e10c8bd0591f
+2019-01-31 22:46:59.9942|INFO|PProjekat.Controllers.StudentsController|Removing a student with id 93a119fa-0389-44ef-bfe5-e10c8bd0591f
+2019-01-31 22:47:06.4325|INFO|PProjekat.Controllers.StudentsController|Removing a student with id 93a119fa-0389-44ef-bfe5-e10c8bd0591f
+2019-01-31 22:47:42.1705|INFO|PProjekatIzmena.Controllers.TeachersController|Requesting all teachers.
+2019-01-31 22:48:17.1403|INFO|PProjekat.Controllers.StudentsController|Removing a student with id 0062bcfd-5bfa-4d12-b6b2-4668f6ab9300
+2019-01-31 22:48:17.6409|INFO|PProjekatIzmena.Services.StudentService|Exception - user with id 0062bcfd-5bfa-4d12-b6b2-4668f6ab9300 is not a student
+2019-01-31 22:48:17.6721|INFO|PProjekat.Controllers.StudentsController|Student not removed.

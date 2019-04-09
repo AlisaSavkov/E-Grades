@@ -1,0 +1,239 @@
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\obj\Debug\ElektronskiDnevnik.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\obj\Debug\ElektronskiDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\csc.exe
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\csi.exe
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\AutoMapper.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\CommonServiceLocator.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\EntityFramework.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Google.Protobuf.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.Owin.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.Owin.Security.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\MySql.Data.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\NLog.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Owin.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\System.ValueTuple.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\System.Web.Cors.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\System.Web.Http.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\System.Web.Http.Owin.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.Abstractions.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.Configuration.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.Container.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.Interception.Configuration.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.Interception.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.RegistrationByConvention.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.ServiceLocation.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.WebApi.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\AutoMapper.pdb
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\AutoMapper.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\CommonServiceLocator.pdb
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\EntityFramework.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Google.Protobuf.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.Owin.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.Owin.Security.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\MySql.Data.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Newtonsoft.Json.pdb
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\NLog.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\System.ValueTuple.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\System.Web.Http.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\System.Web.Http.Owin.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.Abstractions.pdb
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.Configuration.pdb
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.Container.pdb
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.Interception.pdb
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.Interception.Configuration.pdb
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.RegistrationByConvention.pdb
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Unity.ServiceLocation.pdb
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\System.Web.Http.WebHost.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\obj\Debug\ElektronskiDnevnik.csproj.CopyComplete
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\PProjekat.dll.config
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\PProjekat.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\bin\PProjekat.pdb
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\obj\Debug\PProjekat.dll
+C:\Users\User\source\repos\BackendExamples - Copy - Copy\PProjekatAuthIzmena\obj\Debug\PProjekat.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\obj\Debug\PProjekat.dll
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\obj\Debug\PProjekat.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\PProjekat.dll.config
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\PProjekat.dll
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\PProjekat.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\AutoMapper.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\AutoMapper.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\CommonServiceLocator.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\EntityFramework.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Google.Protobuf.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\MySql.Data.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Newtonsoft.Json.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\NLog.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\System.ValueTuple.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\System.Web.Http.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\System.Web.Http.Owin.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Unity.Abstractions.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Unity.Configuration.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Unity.Container.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Unity.Interception.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Unity.Interception.Configuration.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Unity.RegistrationByConvention.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Unity.ServiceLocation.pdb
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\obj\Debug\ElektronskiDnevnik.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\obj\Debug\ElektronskiDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Za push\EG\Elektronski\PProjekatAuthIzmena\obj\Debug\ElektronskiDnevnik.csproj.CopyComplete
+C:\Users\User\Desktop\Push\EG\Projekat\bin\AutoMapper.pdb
+C:\Users\User\Desktop\Push\EG\Projekat\bin\AutoMapper.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\CommonServiceLocator.pdb
+C:\Users\User\Desktop\Push\EG\Projekat\bin\EntityFramework.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Google.Protobuf.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\MySql.Data.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Newtonsoft.Json.pdb
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\NLog.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\System.ValueTuple.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\System.Web.Http.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\System.Web.Http.Owin.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Unity.Abstractions.pdb
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Unity.Configuration.pdb
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Unity.Container.pdb
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Unity.Interception.pdb
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Unity.Interception.Configuration.pdb
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Unity.RegistrationByConvention.pdb
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Unity.ServiceLocation.pdb
+C:\Users\User\Desktop\Push\EG\Projekat\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Push\EG\Projekat\obj\Debug\ElektronskiDnevnik.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Push\EG\Projekat\obj\Debug\ElektronskiDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Push\EG\Projekat\obj\Debug\ElektronskiDnevnik.csproj.CopyComplete
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Projekat.dll.config
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Projekat.dll
+C:\Users\User\Desktop\Push\EG\Projekat\bin\Projekat.pdb
+C:\Users\User\Desktop\Push\EG\Projekat\obj\Debug\Projekat.dll
+C:\Users\User\Desktop\Push\EG\Projekat\obj\Debug\Projekat.pdb
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Projekat.dll.config
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Projekat.dll
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Projekat.pdb
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\AutoMapper.pdb
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\AutoMapper.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\CommonServiceLocator.pdb
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\EntityFramework.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Google.Protobuf.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\MySql.Data.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Newtonsoft.Json.pdb
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\NLog.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\System.ValueTuple.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\System.Web.Http.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\System.Web.Http.Owin.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Unity.Abstractions.pdb
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Unity.Configuration.pdb
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Unity.Container.pdb
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Unity.Interception.pdb
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Unity.Interception.Configuration.pdb
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Unity.RegistrationByConvention.pdb
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Unity.ServiceLocation.pdb
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\GIT\EG\Projekat\obj\Debug\ElektronskiDnevnik.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GIT\EG\Projekat\obj\Debug\ElektronskiDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT\EG\Projekat\obj\Debug\ElektronskiDnevnik.csproj.CopyComplete
+C:\Users\User\Desktop\GIT\EG\Projekat\obj\Debug\Projekat.dll
+C:\Users\User\Desktop\GIT\EG\Projekat\obj\Debug\Projekat.pdb
