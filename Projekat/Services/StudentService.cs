@@ -130,13 +130,17 @@ namespace Projekat.Services
         {
             Student updated = GetById(id);
            
-            if (updated != null)
-            {
+            
+                if (dto.UserName != null && dto.UserName != updated.UserName && userService.GetByUserName(dto.UserName) != null)
+                {
+                    throw new Exception("User with username " + dto.UserName + " already exists!");
+                }
 
-                if (dto.UserName != null && dto.UserName != updated.UserName && userService.GetByUserName(dto.UserName) == null)
+                if (dto.UserName != null && dto.UserName != updated.UserName)
                 {
                     updated.UserName = dto.UserName;
                 }
+                
                 //if (dto.Email != null && dto.Email != updated.Email && userService.GetByEmail(dto.Email) == null)
                 //{
                 //    updated.Email = dto.Email;
@@ -164,9 +168,7 @@ namespace Projekat.Services
                 db.Save();
                 return Mapper.Map<Student, StudentDTO>(updated);
 
-            }
-
-            return null;
+            
         }
 
         public Student GetById(string id)

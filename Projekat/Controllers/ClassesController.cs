@@ -20,11 +20,13 @@ namespace Projekat.Controllers
     public class ClassController : ApiController
     {
         private IClassService classService;
+        private IClassSubjectTeacherService cstService;
         private static Logger logger = LogManager.GetCurrentClassLogger();
 
-        public ClassController(IClassService classService)
+        public ClassController(IClassService classService, IClassSubjectTeacherService ctsService)
         {
             this.classService = classService;
+            this.cstService = ctsService;
         }
 
 
@@ -188,7 +190,33 @@ namespace Projekat.Controllers
 
         }
 
-      
+        [Authorize(Roles = "admins")]
+        [Route("{classId}/remove-subjectTeacher/{stId}")]
+        [ResponseType(typeof(void))]
+        public HttpResponseMessage DeleteSubjectFromTeacher(int classId, int stId)
+        {
+            try
+            {
+                ClassSubjectTeacherDTO cst = cstService.RemoveSubjectFromClass(classId, stId);
+                if (cst == null)
+                {
+                    logger.Info("Subject, teacher or class not found.");
+                    return Request.CreateResponse(HttpStatusCode.NotFound);
+                }
+                logger.Info("Class-subject-teacher deleted.");
+
+                return Request.CreateResponse(HttpStatusCode.NoContent);
+            }
+            catch (Exception e)
+            {
+                logger.Info("Class-subject-teacher not deleted.");
+                ErrorDTO error = new ErrorDTO(e.Message);
+                return Request.CreateResponse(HttpStatusCode.BadRequest, error);
+            }
+
+        }
+
+
     }
 
     

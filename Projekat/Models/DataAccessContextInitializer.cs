@@ -101,7 +101,7 @@ namespace Projekat.Models
 
             Subject s3 = new Subject()
             {
-                Name = "Srpski",
+                Name = "Engleski jezik",
                 LessonNumber = 4,
                 Year = 8
             };
@@ -138,12 +138,19 @@ namespace Projekat.Models
             subjects.Add(s6);
             Subject s7 = new Subject()
             {
-                Name = "Priroda i drustvo",
+                Name = "Likovna kultura",
                 LessonNumber = 2,
-                Year = 2
+                Year = 1
             };
             subjects.Add(s7);
 
+            Subject s8 = new Subject()
+            {
+                Name = "Muzicka kultura",
+                LessonNumber = 4,
+                Year = 1
+            };
+            subjects.Add(s8);
             context.Subjects.AddRange(subjects);
 
           
@@ -161,10 +168,28 @@ namespace Projekat.Models
             a2.FirstName = "Mira";
             a2.LastName = "Boric";
             a2.UserName = "Mira1";
-            a2.ShortName = "Bora";
+            a2.ShortName = "Mira";
             a2.Email = "mira43@gmali.com";
             userManager.Create(a2, "password123");
             userManager.AddToRole(a2.Id, "admins");
+
+            Admin a3 = new Admin();
+            a3.FirstName = "Jelena";
+            a3.LastName = "Dobranic";
+            a3.UserName = "Jela1";
+            a3.ShortName = "Jela";
+            a3.Email = "jelena90@gmali.com";
+            userManager.Create(a3, "password123");
+            userManager.AddToRole(a3.Id, "admins");
+
+            Admin a4 = new Admin();
+            a4.FirstName = "Marko";
+            a4.LastName = "Bosic";
+            a4.UserName = "Marko5";
+            a4.ShortName = "Marko";
+            a4.Email = "marko00@gmali.com";
+            userManager.Create(a4, "password123");
+            userManager.AddToRole(a4.Id, "admins");
 
             Student st1 = new Student();
             st1.FirstName = "Tina";
@@ -181,7 +206,7 @@ namespace Projekat.Models
 
             Student st2 = new Student();
             st2.FirstName = "Bojan";
-            st2.LastName = "Maric";
+            st2.LastName = "Bozic";
             st2.UserName = "Bojan3";
             st2.Email = "bojan987@hotmail.com";
             //st2.Class = class3;
@@ -194,7 +219,7 @@ namespace Projekat.Models
 
             Student st3 = new Student();
             st3.FirstName = "Milica";
-            st3.LastName = "Maric";
+            st3.LastName = "Milic";
             st3.UserName = "Milica2";
             st3.DateOfBirth = new DateTime(2011, 10, 21);
             st3.Email = "milica453@hotmail.com";
@@ -206,7 +231,7 @@ namespace Projekat.Models
 
             Student st4 = new Student();
             st4.FirstName = "Jelena";
-            st4.LastName = "Selic";
+            st4.LastName = "Bogunovic";
             st4.UserName = "jelena6";
             st4.Class = class1;
             st4.Email = "jelena432@hotmail.com";
@@ -242,7 +267,7 @@ namespace Projekat.Models
 
             Student st7 = new Student();
             st7.FirstName = "Mirka";
-            st7.LastName = "Miric";
+            st7.LastName = "Bogunovic";
             st7.UserName = "mirka09";
             st7.DateOfBirth = new DateTime(2008, 12, 19);
             st7.Email = "mirka125@hotmail.com";
@@ -253,7 +278,7 @@ namespace Projekat.Models
 
             Student st8= new Student();
             st8.FirstName = "Milica";
-            st8.LastName = "Bojanic";
+            st8.LastName = "Bozic";
             st8.UserName = "mica0001";
             st8.DateOfBirth = new DateTime(2009, 12, 10);
             st8.Email = "milca0009@hotmail.com";
@@ -265,7 +290,7 @@ namespace Projekat.Models
 
             Student st9 = new Student();
             st9.FirstName = "Dragana";
-            st9.LastName = "Jovic";
+            st9.LastName = "Bozic";
             st9.UserName = "dragana12";
             st9.DateOfBirth = new DateTime(2008, 7, 23);
             st9.Email = "draganaj76@hotmail.com";
@@ -299,7 +324,7 @@ namespace Projekat.Models
 
             Student st12 = new Student();
             st12.FirstName = "Sanela";
-            st12.LastName = "Sanic";
+            st12.LastName = "Milic";
             st12.UserName = "Sanel8";
             st12.DateOfBirth = new DateTime(2008, 8, 12);
             st12.Email = "nenad45@hotmail.com";
@@ -307,6 +332,17 @@ namespace Projekat.Models
             class3.Students.Add(st12);
             userManager.Create(st12, "pass12978");
             userManager.AddToRole(st12.Id, "students");
+
+            Student st13 = new Student();
+            st13.FirstName = "Helena";
+            st13.LastName = "Sanic";
+            st13.UserName = "Helena";
+            st13.DateOfBirth = new DateTime(2008,1, 12);
+            st13.Email = "nenad45@hotmail.com";
+            //st6.Class = class4;
+            class3.Students.Add(st13);
+            userManager.Create(st13, "pass12978");
+            userManager.AddToRole(st13.Id, "students");
 
             Parent p1 = new Parent();
             p1.FirstName = "Dragana";
@@ -361,9 +397,9 @@ namespace Projekat.Models
             p5.Email = "alisa.savkov@gmail.com";
             p5.UserName = "Milica";
             p5.JMBG = "1200806202981";
-            p5.Children.Add(st4);
+            //p5.Children.Add(st4);
             p5.Children.Add(st6);
-            p5.Children.Add(st7);
+            //p5.Children.Add(st7);
             userManager.Create(p5, "p1239je");
             userManager.AddToRole(p5.Id, "parents");
 
@@ -374,7 +410,7 @@ namespace Projekat.Models
             p6.UserName = "Iva1";
             p6.JMBG = "0200236202981";
             p6.Children.Add(st11);
-            
+            p6.Children.Add(st13);
             userManager.Create(p6, "p1239je");
             userManager.AddToRole(p6.Id, "parents");
 
@@ -425,7 +461,52 @@ namespace Projekat.Models
             t5.JMBG = "1670987543765";
             userManager.Create(t5, "pass1297");
             userManager.AddToRole(t5.Id, "teachers");
-            
+
+
+            Teacher t6 = new Teacher();
+            t6.Email = "boki9@gmail.com";
+            t6.UserName = "Bojan1";
+            t6.FirstName = "Bojan";
+            t6.LastName = "Dragic";
+            t6.JMBG = "1670987003765";
+            userManager.Create(t6, "pass1297");
+            userManager.AddToRole(t6.Id, "teachers");
+
+            Teacher t7 = new Teacher();
+            t7.Email = "rade009@gmail.com";
+            t7.UserName = "Rade";
+            t7.FirstName = "Radomir";
+            t7.LastName = "Radic";
+            t7.JMBG = "1570987003765";
+            userManager.Create(t7, "pass1297");
+            userManager.AddToRole(t7.Id, "teachers");
+
+            Teacher t8 = new Teacher();
+            t8.Email = "milena43@gmail.com";
+            t8.UserName = "Mila";
+            t8.FirstName = "Milena";
+            t8.LastName = "Jankovic";
+            t8.JMBG = "1570988003765";
+            userManager.Create(t8, "pass1297");
+            userManager.AddToRole(t8.Id, "teachers");
+
+            Teacher t9 = new Teacher();
+            t9.Email = "silvana99@gmail.com";
+            t9.UserName = "Silvana9";
+            t9.FirstName = "Silvana";
+            t9.LastName = "Maric";
+            t9.JMBG = "1502988003764";
+            userManager.Create(t9, "pass1297");
+            userManager.AddToRole(t9.Id, "teachers");
+
+            Teacher t10 = new Teacher();
+            t10.Email = "hana77@gmail.com";
+            t10.UserName = "Hana";
+            t10.FirstName = "Hana";
+            t10.LastName = "Ivancic";
+            t10.JMBG = "1508988003765";
+            userManager.Create(t10, "pass1297");
+            userManager.AddToRole(t10.Id, "teachers");
 
             IList<SubjectTeacher> subjectTeachers = new List<SubjectTeacher>();
 
@@ -468,9 +549,9 @@ namespace Projekat.Models
 
 
             SubjectTeacher subteach7 = new SubjectTeacher();
-            subteach7.Subject = s1;
+            subteach7.Subject = s7;
             subteach7.Teacher = t3;
-            s1.SubjectTeachers.Add(subteach7);
+            s7.SubjectTeachers.Add(subteach7);
             t3.TaughtSubjects.Add(subteach7);
             subjectTeachers.Add(subteach7);
             
@@ -494,6 +575,21 @@ namespace Projekat.Models
             s2.SubjectTeachers.Add(subteach11);
             t1.TaughtSubjects.Add(subteach11);
             subjectTeachers.Add(subteach11);
+
+            SubjectTeacher subteach12 = new SubjectTeacher();
+            subteach12.Subject = s4;
+            subteach12.Teacher = t10;
+            s4.SubjectTeachers.Add(subteach12);
+            t10.TaughtSubjects.Add(subteach12);
+            subjectTeachers.Add(subteach12);
+
+
+            SubjectTeacher subteach13 = new SubjectTeacher();
+            subteach13.Subject = s8;
+            subteach13.Teacher = t10;
+            s8.SubjectTeachers.Add(subteach13);
+            t10.TaughtSubjects.Add(subteach13);
+            subjectTeachers.Add(subteach13);
             context.SubjectTeachers.AddRange(subjectTeachers);
 
             IList<ClassSubjectTeacher> csts = new List<ClassSubjectTeacher>();
@@ -541,12 +637,12 @@ namespace Projekat.Models
             subteach8.TaughtSubjectClasses.Add(cst7);
             csts.Add(cst7);
 
-            ClassSubjectTeacher cst8 = new ClassSubjectTeacher();
-            cst8.Class = class3;
-            class3.AttendedTeacherSubjects.Add(cst8);
-            cst8.SubjectTeacher = subteach4;
-            subteach4.TaughtSubjectClasses.Add(cst8);
-            csts.Add(cst8);
+            //ClassSubjectTeacher cst8 = new ClassSubjectTeacher();
+            //cst8.Class = class3;
+            //class3.AttendedTeacherSubjects.Add(cst8);
+            //cst8.SubjectTeacher = subteach4;
+            //subteach4.TaughtSubjectClasses.Add(cst8);
+            //csts.Add(cst8);
 
             ClassSubjectTeacher cst9 = new ClassSubjectTeacher();
             cst9.Class = class1;
@@ -610,7 +706,7 @@ namespace Projekat.Models
             g4.Semester = Semester.FIRST;
             g4.Year = st2.Class.Year;
             st2.Grades.Add(g4);
-            cst8.Grades.Add(g4);
+            cst3.Grades.Add(g4);
             grades.Add(g4);
 
             Grade g5 = new Grade();
@@ -754,7 +850,7 @@ namespace Projekat.Models
             g16.Semester = Semester.FIRST;
             g16.Year = st2.Class.Year;
             st2.Grades.Add(g16);
-            cst8.Grades.Add(g16);
+            cst3.Grades.Add(g16);
             grades.Add(g16);
 
             //i
@@ -795,7 +891,7 @@ namespace Projekat.Models
             g19.Semester = Semester.SECOND;
             g19.Year = st2.Class.Year;
             st2.Grades.Add(g19);
-            cst8.Grades.Add(g19);
+            cst3.Grades.Add(g19);
             grades.Add(g19);
 
 

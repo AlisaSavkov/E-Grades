@@ -17,6 +17,7 @@ namespace Projekat.Services
         private ITeacherService teacherService;
         private ISubjectService subjectService;
         private ISubjectTeacherService stService;
+        
         private IClassService classService;
         private static Logger logger = LogManager.GetCurrentClassLogger();
 
@@ -307,5 +308,73 @@ namespace Projekat.Services
             return Mapper.Map<ClassSubjectTeacherDTO>(db.ClassSubjectTeachersRepository.GetByCST(classId, subjectId, teacherId));
 
         }
+
+        public ClassSubjectTeacherDTO Create1(int subTeacher, int classId)
+        {
+            SubjectTeacher st = stService.GetById(subTeacher);
+            Class clas = classService.GetById(classId);
+
+            if (clas == null)
+            {
+                logger.Info("Exception - Class with id " + classId + " doesn't exist.");
+                throw new Exception("Class with id " + classId + " doesn't exist.");
+            }
+            
+            if (st == null)
+            {
+                logger.Info("Subject-teacher with id " + subTeacher + " doesn't exist");
+                throw new Exception("Subject-teacher doesn't exist");
+            }
+            if (db.ClassSubjectTeachersRepository.GetByClassSubjectTeacher(classId, subTeacher) !=null)
+            {
+                throw new Exception("Teacher already teaches that subject in that class.");
+            }
+            if (st.Subject.Year != clas.Year)
+            {
+                throw new Exception("Can not add a subject taught in other year!");
+            }
+            ClassSubjectTeacher cst = new ClassSubjectTeacher();
+            cst.Class = clas;
+            cst.SubjectTeacher = st;
+
+            clas.AttendedTeacherSubjects.Add(cst);
+            st.TaughtSubjectClasses.Add(cst);
+
+            db.ClassSubjectTeachersRepository.Insert(cst);
+            db.Save();
+
+            return Mapper.Map<ClassSubjectTeacherDTO>(cst);
+        }
+
+        public ClassSubjectTeacherDTO RemoveSubjectFromClass(int classId, int stId)
+        {
+            ClassSubjectTeacher cst = GetByClassSubjectTeacher(classId, stId);
+            if (cst == null)
+            {
+                logger.Info("Subject isn't taught by that teacher in thant class.");
+                throw new Exception("Subject isn't taught by that teacher in thant class.");
+            }
+
+            IEnumerable<Grade> grades = db.GradesRepository.GetByClassSubjectTeacher(cst.ID);
+            if (grades.Count() > 0)
+            {
+                logger.Info("Exception - Can't delete subject that has grades.");
+                throw new Exception("Can't delete subject that has grades.");
+            }
+            Class clas = cst.Class;
+            SubjectTeacher st = cst.SubjectTeacher;
+
+
+            clas.AttendedTeacherSubjects.Remove(cst);
+            st.TaughtSubjectClasses.Remove(cst);
+            db.ClassSubjectTeachersRepository.Delete(cst);
+            db.Save();
+            return Mapper.Map<ClassSubjectTeacher, ClassSubjectTeacherDTO>(cst);
+
+
+
+
+        }
     }
+    
 }

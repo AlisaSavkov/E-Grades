@@ -47,7 +47,7 @@ namespace Projekat.Controllers
             if(RequestContext.Principal.IsInRole("admins"))
             {
                 logger.Info("Admin with username " + userName + " is requesting all students");
-                return Ok(students.ToList().Select(Mapper.Map<Student, StudentPDTO>));
+                return Ok(students.ToList().Select(Mapper.Map<Student, StudentDTO>));
             }
             else if(RequestContext.Principal.IsInRole("teachers"))
             {

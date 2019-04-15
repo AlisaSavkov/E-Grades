@@ -22,9 +22,15 @@ namespace Projekat.Models.DTOs
         public string ImagePath { get; set; }
         //[EmailAddress]
         //public string Email { get; set; }
+        //[JsonProperty(Order = 8)]
+        //public virtual ClassDTO Class { get; set; }
         [JsonProperty(Order = 8)]
-        public virtual ClassDTO Class { get; set; }
+        public int ClassID { get; set; }
         [JsonProperty(Order = 9)]
+        public string ClassLabel { get; set; }
+        [JsonProperty(Order = 10)]
+        public int? ClassYear { get; set; }
+        [JsonProperty(Order = 11)]
         public virtual ParentDTO Parent { get; set; }
 
       

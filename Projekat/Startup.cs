@@ -42,8 +42,8 @@ using Projekat.ModelsIzmena.DTOs;
             app.UseWebApi(config);
 
             //podesavanje za datum
-            config.Formatters.JsonFormatter.SerializerSettings.DateFormatString = "dd.MM.yyyy";
-           
+            //config.Formatters.JsonFormatter.SerializerSettings.DateFormatString = "dd.MM.yyyy";
+            config.Formatters.JsonFormatter.SerializerSettings.DateFormatString = "yyyy-MM-dd";
             Mapper.Initialize(cfg => {
                 
                 cfg.CreateMap<Class, ClassDTO>().ReverseMap();

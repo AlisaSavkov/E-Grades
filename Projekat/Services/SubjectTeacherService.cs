@@ -38,7 +38,7 @@ namespace Projekat.Services
 
             Teacher teacher = teacherService.GetById(teacherId);
             Subject subject = subjectService.GetById(subjectId);
-           
+
 
             if (db.SubjectTeachersRepository.GetBySubjectTeacher(subjectId, teacherId) != null)
             {
@@ -60,7 +60,7 @@ namespace Projekat.Services
 
         public SubjectTeacherDTO Update(int id, int subjectId, string teacherId)
         {
-           
+
             Teacher teacher = teacherService.GetById(teacherId);
             Subject subject = subjectService.GetById(subjectId);
             SubjectTeacher subjectTeacher = db.SubjectTeachersRepository.GetByID(id);
@@ -71,11 +71,11 @@ namespace Projekat.Services
                 //IEnumerable<Grade> gradesByST = db.GradesRepository.GetBySubjectTeacher(id);
                 //if (gradesByST.Count() == 0)
                 //{
-                
 
-                    //izmena ako ne postoji takva kombinacija
-                    if (db.SubjectTeachersRepository.GetBySubjectTeacher(subjectId, teacherId) == null)
-                    {
+
+                //izmena ako ne postoji takva kombinacija
+                if (db.SubjectTeachersRepository.GetBySubjectTeacher(subjectId, teacherId) == null)
+                {
                     //SubjectTeacher st = db.SubjectTeachersRepository.GetBySubjectTeacher(subject.ID, teacher.Id);
                     //subject.SubjectTeachers.Remove(st);
                     //teacher.TaughtSubjects.Remove(st);
@@ -88,25 +88,25 @@ namespace Projekat.Services
                         }
                     }
 
-                    
-                        subjectTeacher.Subject = subject;
-                        subjectTeacher.Teacher = teacher;
 
-                        teacher.TaughtSubjects.Add(subjectTeacher);
-                        subject.SubjectTeachers.Add(subjectTeacher);
+                    subjectTeacher.Subject = subject;
+                    subjectTeacher.Teacher = teacher;
 
-                        db.SubjectTeachersRepository.Update(subjectTeacher);
-                        db.Save();
+                    teacher.TaughtSubjects.Add(subjectTeacher);
+                    subject.SubjectTeachers.Add(subjectTeacher);
 
-                        return Mapper.Map<SubjectTeacherDTO>(subjectTeacher);
-                    }
-                    //ako zapravo korisnik nista ne izmeni samo vrati isti taj objekat
-                    else if (subjectTeacher.Subject == subject && subjectTeacher.Teacher == teacher)
-                    {
-                        return Mapper.Map<SubjectTeacherDTO>(subjectTeacher);
-                    }
-                    logger.Info("Exception - Teacher witd id " + teacherId + " already teaches subject with id " + subjectId);
-                    throw new Exception("Teacher already teaches that subject.");
+                    db.SubjectTeachersRepository.Update(subjectTeacher);
+                    db.Save();
+
+                    return Mapper.Map<SubjectTeacherDTO>(subjectTeacher);
+                }
+                //ako zapravo korisnik nista ne izmeni samo vrati isti taj objekat
+                else if (subjectTeacher.Subject == subject && subjectTeacher.Teacher == teacher)
+                {
+                    return Mapper.Map<SubjectTeacherDTO>(subjectTeacher);
+                }
+                logger.Info("Exception - Teacher witd id " + teacherId + " already teaches subject with id " + subjectId);
+                throw new Exception("Teacher already teaches that subject.");
                 //}
                 //logger.Info("Exception - Can't update subject-teacher that asigned grades to students.");
                 //throw new Exception("Can't update subject-teacher that asigned grades to students.");
@@ -115,7 +115,7 @@ namespace Projekat.Services
             throw new Exception("Doesn't exist subject-teacher with required id.");
         }
 
-        
+
 
         public IEnumerable<SubjectTeacherDTO> GetAllSubjectTeachers()
         {
@@ -135,7 +135,7 @@ namespace Projekat.Services
         public SubjectTeacherDTO Delete(int id)
         {
             SubjectTeacher removed = db.SubjectTeachersRepository.GetByID(id);
-           
+
             if (removed != null)
             {
                 IEnumerable<ClassSubjectTeacher> csts = db.ClassSubjectTeachersRepository.GetBySubjectTeacher(id);
@@ -168,7 +168,7 @@ namespace Projekat.Services
                 return null;
             }
             return st;
-            
+
         }
 
         public IEnumerable<SubjectTeacher> GetByTeacher(string teacherId)
@@ -185,13 +185,47 @@ namespace Projekat.Services
             IList<SubjectTeacher> sts = new List<SubjectTeacher>();
             foreach (var item in csts)
             {
-                if(item.Class.ID == id)
+                if (item.Class.ID == id)
                 {
                     sts.Add(item.SubjectTeacher);
                 }
             }
 
             return sts.ToList().Select(Mapper.Map<SubjectTeacher, SubjectTeacherDTO>);
+
+
+        }
+
+        public SubjectTeacher GetById(int Id)
+        {
+            return db.SubjectTeachersRepository.GetByID(Id);
+        }
+
+        public SubjectTeacherDTO RemoveSubjectFromTeacher(string id, int subjectId)
+        {
+            SubjectTeacher st = GetBySubjectAndTeacher(subjectId, id);
+            if(st == null)
+            {
+                logger.Info("Subject isn't taught by that teacher.");
+                throw new Exception("Subject isn't taught by that teacher.");
+            }
+
+            IEnumerable<ClassSubjectTeacher> csts = db.ClassSubjectTeachersRepository.GetByTeacherSubject(id, subjectId);
+                if (csts.Count() > 0)
+                {
+                    logger.Info("Exception - Subject is taugt in some class. Subject-teacher with id " + id + " can't be deleted.");
+                    throw new Exception("Subject is taugt in some class. Subject-teacher can't be deleted.");
+                }
+                Teacher teacher = st.Teacher;
+                Subject subject = st.Subject;
+
+                teacher.TaughtSubjects.Remove(st);
+                subject.SubjectTeachers.Remove(st);
+                db.SubjectTeachersRepository.Delete(st);
+                db.Save();
+                return Mapper.Map<SubjectTeacher, SubjectTeacherDTO>(st);
+           
+            
 
 
         }

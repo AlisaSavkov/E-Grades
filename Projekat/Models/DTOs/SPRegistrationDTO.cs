@@ -60,12 +60,12 @@ namespace Projekat.Models.DTOs
         [Required]
         [StringLength(20, ErrorMessage = "The {0} must be at least {6} characters long.", MinimumLength = 6)]
         [DataType(DataType.Password)]
-        [Display(Name = "Password")]
+        [Display(Name = "PPassword")]
         public string PPassword { get; set; }
 
         [DataType(DataType.Password)]
-        [Display(Name = "Confirm password")]
-        [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+        [Display(Name = "PConfirm password")]
+        [Compare("PPassword", ErrorMessage = "The password and confirmation password do not match.")]
         public string PConfirmPassword { get; set; }
 
 

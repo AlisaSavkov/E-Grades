@@ -82,20 +82,30 @@ namespace Projekat.Services
         {
             Parent updated = GetById(id);
 
-           
-                if (dto.JMBG != null && dto.JMBG != updated.JMBG && db.ParentsRepository.Get().Where(x => x.JMBG != null && x.JMBG == dto.JMBG).FirstOrDefault() == null)
+            if (dto.UserName != null && dto.UserName != updated.UserName && userService.GetByUserName(dto.UserName) != null)
+            {
+                throw new Exception("User with username " + dto.UserName + " already exists!");
+            }
+            if (dto.JMBG != null && dto.JMBG != updated.JMBG && db.ParentsRepository.Get().Where(x => x.JMBG == dto.JMBG).FirstOrDefault() != null)
+            {
+                throw new Exception("Parent with JMBG " + dto.JMBG + " already exists!");
+            }
+
+            if (dto.UserName != null && dto.UserName != updated.UserName)
+            {
+                updated.UserName = dto.UserName;
+            }
+
+
+            if (dto.Email != null)
+            {
+                updated.Email = dto.Email;
+            }
+            if (dto.JMBG != null)
                 {
                     updated.JMBG = dto.JMBG;
                 }
-                
-                if (dto.UserName != null && dto.UserName != updated.UserName && userService.GetByUserName(dto.UserName) == null)
-                {
-                    updated.UserName = dto.UserName;
-                }
-                if (dto.Email != null && dto.Email != updated.Email && userService.GetByEmail(dto.Email) == null)
-                {
-                    updated.Email = dto.Email;
-                }
+            
                 if (dto.LastName != null)
                 {
                     updated.LastName = dto.LastName;

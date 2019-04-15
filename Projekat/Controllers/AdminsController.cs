@@ -89,21 +89,29 @@ namespace Projekat.Controllers
         
         [Route("{id}")]
         [Authorize(Roles = "admins")]
-        public IHttpActionResult Delete(string id)
+        public HttpResponseMessage Delete(string id)
         {
             string userName = ((ClaimsPrincipal)RequestContext.Principal).FindFirst(x => x.Type == "UserName").Value;
-            logger.Info("Admin with username " + userName + " is deleting admin with id " + id);
+            string userId = ((ClaimsPrincipal)RequestContext.Principal).FindFirst(x => x.Type == "UserId").Value;
+           
+            
             try
             {
+                if (userId == id)
+                {
+                    throw new Exception("Admin can not delete his own account!");
+
+                }
+                logger.Info("Admin with username " + userName + " is deleting admin with id " + id);
                 AdminDTO removed = adminService.Delete(id);
                 logger.Info("Admin with username " + userName + " removed admin with id " + id);
-                return Ok();
+                return Request.CreateResponse(HttpStatusCode.NoContent);
             }
             catch (Exception e)
             {
                 ErrorDTO error = new ErrorDTO(e.Message);
-                logger.Info(e.Message);
-                return BadRequest(error.MessageDetails);
+                logger.Info(error.MessageDetails);
+                return Request.CreateResponse(HttpStatusCode.BadRequest, error.MessageDetails);
             }
         }
 
@@ -134,7 +142,7 @@ namespace Projekat.Controllers
             {
                 
                 ErrorDTO error = new ErrorDTO(e.Message);
-                logger.Info(e.Message);
+                logger.Info(error.MessageDetails);
                 return Request.CreateResponse(HttpStatusCode.BadRequest, error.MessageDetails);
             }
         }

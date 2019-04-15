@@ -25,6 +25,8 @@ namespace Projekat.Services
         ClassSubjectTeacherDTO Delete(int id);
         IEnumerable<ClassSubjectTeacher> GetByClassTeacher(int classId, string teacherId);
         ClassSubjectTeacherDTO GetByCST(int classId, int subjectId, string teacherId);
+        ClassSubjectTeacherDTO Create1(int subTeacher, int classId);
+        ClassSubjectTeacherDTO RemoveSubjectFromClass(int classId, int stId);
         //ClassSubjectTeacherDTO Update1(int id, ClassSubjectTeacherUpdateDTO dto);
         //ClassSubjectTeacherDTO Remove(int subjectId, string teacherId, int classId);
 

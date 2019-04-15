@@ -189,7 +189,7 @@ namespace Projekat.Controllers
             {
                 ErrorDTO error = new ErrorDTO(e.Message);
                 logger.Info("Teacher deleted." + error.MessageDetails);
-                return Request.CreateResponse(HttpStatusCode.BadRequest, error);
+                return Request.CreateResponse(HttpStatusCode.BadRequest, error.MessageDetails);
             }
         }
 
@@ -218,31 +218,31 @@ namespace Projekat.Controllers
         }
 
         //provereno
-        //[Authorize(Roles = "admins")]
-        //[Route("{id}/remove-subject/{subjectId}")]
-        //[ResponseType(typeof(void))]
-        //public HttpResponseMessage DeleteSubjectFromTeacher(string id, int subjectId)
-        //{
-        //    try
-        //    {
-        //        SubjectTeacherDTO subTeacher = subTeachService.RemoveSubjectFromTecher(id, subjectId);
-        //        if(subTeacher == null)
-        //        {
-        //            logger.Info("Subject or teacher not found.");
-        //            return Request.CreateResponse(HttpStatusCode.NotFound);
-        //        }
-        //        logger.Info("Subject-teacher deleted.");
-                
-        //        return Request.CreateResponse(HttpStatusCode.NoContent);
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        logger.Info("Subject-teacher not deleted.");
-        //        ErrorDTO error = new ErrorDTO(e.Message);
-        //        return Request.CreateResponse(HttpStatusCode.BadRequest, error);
-        //    }
+        [Authorize(Roles = "admins")]
+        [Route("{id}/remove-subject/{subjectId}")]
+        [ResponseType(typeof(void))]
+        public HttpResponseMessage DeleteSubjectFromTeacher(string id, int subjectId)
+        {
+            try
+            {
+                SubjectTeacherDTO subTeacher = subTeachService.RemoveSubjectFromTeacher(id, subjectId);
+                if (subTeacher == null)
+                {
+                    logger.Info("Subject or teacher not found.");
+                    return Request.CreateResponse(HttpStatusCode.NotFound);
+                }
+                logger.Info("Subject-teacher deleted.");
 
-        //}
+                return Request.CreateResponse(HttpStatusCode.NoContent);
+            }
+            catch (Exception e)
+            {
+                logger.Info("Subject-teacher not deleted.");
+                ErrorDTO error = new ErrorDTO(e.Message);
+                return Request.CreateResponse(HttpStatusCode.BadRequest, error);
+            }
+
+        }
 
     }
 }

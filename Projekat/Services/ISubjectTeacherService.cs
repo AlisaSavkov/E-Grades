@@ -14,6 +14,7 @@ namespace Projekat.Services
         IEnumerable<SubjectTeacherDTO> GetAllSubjectTeachers();
         //IEnumerable<SubjectTeacherDTO> GetAllSubjectTeachersByTeacher(string Id);
         SubjectTeacherDTO GetDtoById(int Id);
+        SubjectTeacher GetById(int Id);
         SubjectTeacher GetBySubjectAndTeacher(int subjectId, string teacherId);
         SubjectTeacherDTO Create(string id, int idSubject);
         SubjectTeacherDTO Update(int Id, int idSubject, string idTeacher);
@@ -23,6 +24,7 @@ namespace Projekat.Services
         IEnumerable<SubjectTeacher> GetAllSubjectTeacher();
         IEnumerable<SubjectTeacher> GetByTeacher(string teacherId);
         IEnumerable<SubjectTeacherDTO> GetByClass(int id);
+        SubjectTeacherDTO RemoveSubjectFromTeacher(string id, int subjectId);
 
         //IEnumerable<SubjectTeacherDTO> GetTeachersBySubject(int subjectId);
     }

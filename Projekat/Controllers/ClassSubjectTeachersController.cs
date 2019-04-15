@@ -174,6 +174,32 @@ namespace Projekat.Controllers
 
         }
 
+
+        [Authorize(Roles = "admins")]
+        [ResponseType(typeof(ClassSubjectTeacherDTO))]
+        [Route("addSubjectTeacher/{subTeacher}/addClass/{classId}")]
+        public HttpResponseMessage PostClassSubjectTeacher(int subTeacher, int classId)
+        {
+            try
+            {
+                logger.Info("Creating subject-teacher-class.");
+                ClassSubjectTeacherDTO created = cstService.Create1(subTeacher, classId);
+                if (created == null)
+                {
+                    return Request.CreateResponse(HttpStatusCode.NotFound);
+                }
+                logger.Info("Subject-teacher-class not created.");
+                return Request.CreateResponse(HttpStatusCode.Created, created);
+            }
+            catch (Exception e)
+            {
+                logger.Info("Subject-teacher-class not created.");
+                ErrorDTO error = new ErrorDTO(e.Message);
+                return Request.CreateResponse(HttpStatusCode.BadRequest, error.MessageDetails);
+            }
+
+        }
+
         // DELETE: api/ClassSubjectTeachers/5
         [Authorize(Roles = "admins")]
         [ResponseType(typeof(ClassSubjectTeacher))]
