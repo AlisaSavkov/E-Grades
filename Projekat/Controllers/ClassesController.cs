@@ -159,7 +159,7 @@ namespace Projekat.Controllers
 
 
         
-        //ucenici
+       
         [Authorize(Roles = "admins")]
         [Route("{id}")]
         [ResponseType(typeof(ClassDTO))]

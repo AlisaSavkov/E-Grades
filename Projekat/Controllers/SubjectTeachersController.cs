@@ -24,7 +24,7 @@ namespace Projekat.Controllers
             this.subjectTeacherService = subjectTeacherService;
         }
 
-        //provereno
+       
         [Route("")]
         [Authorize(Roles = "admins, teachers")]
         public IEnumerable<SubjectTeacherDTO> GetAll()
@@ -33,7 +33,7 @@ namespace Projekat.Controllers
             return subjectTeacherService.GetAllSubjectTeachers();
         }
 
-       //provereno
+       
         [ResponseType(typeof(SubjectTeacherDTO))]
         [Route("{id}")]
         [Authorize(Roles = "admins, teachers")]
@@ -63,11 +63,7 @@ namespace Projekat.Controllers
             try
             {
                 IEnumerable<SubjectTeacherDTO> found = subjectTeacherService.GetByClass(id);
-                //if (found == null)
-                //{
-                //    logger.Info("Subject-teacher is not found.");
-                //    return NotFound();
-                //}
+               
                 logger.Info("Subject-teachers are found.");
                 return Request.CreateResponse(HttpStatusCode.OK, found);
             }
@@ -80,7 +76,7 @@ namespace Projekat.Controllers
 
         }
 
-        //provereno
+       
         [Authorize(Roles = "admins")]
         [ResponseType(typeof(void))]
         [Route("{id}")]
@@ -109,8 +105,7 @@ namespace Projekat.Controllers
         }
 
 
-        //uraditi endpoint za izmenu !!
-        //provereno
+        
         [Authorize(Roles = "admins")]
         [ResponseType(typeof(SubjectDTO))]
         [Route("{id}/change-subject/{subjectId}/change-teacher/{teacherId}")]

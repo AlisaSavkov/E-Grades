@@ -44,19 +44,15 @@ namespace Projekat.Services
         {
             Grade removed = GetById(id);
 
-            //proveriti endpoint
-            //if (removed != null)
-            //{
-                GradeDTO removedDto = Mapper.Map<Grade, GradeDTO>(removed);
-                removed.Student.Grades.Remove(removed);
-                removed.ClassSubjectTeacher.Grades.Remove(removed);
-                db.GradesRepository.Delete(id);
-                db.Save();
+           
+            GradeDTO removedDto = Mapper.Map<Grade, GradeDTO>(removed);
+            removed.Student.Grades.Remove(removed);
+            removed.ClassSubjectTeacher.Grades.Remove(removed);
+            db.GradesRepository.Delete(id);
+            db.Save();
 
-                return removedDto;
-            //}
-            //logger.Info("Grade with id " + id + " not found.");
-            //throw new Exception("Grade with id " + id + " not found.");
+            return removedDto;
+           
         }
 
         public IEnumerable<GradeDTO> GetAllGrades()
@@ -100,7 +96,6 @@ namespace Projekat.Services
             grade.GradeValue = gradeDto.GradeValue;
             grade.Changed = true;
 
-            //grade.GradeDate = gradeDto.GradeDate;
             db.GradesRepository.Update(grade);
             db.Save();
 
@@ -108,14 +103,14 @@ namespace Projekat.Services
             return Mapper.Map<GradeDTO>(grade);
         }
 
-        //jos proveriti,radi 
+       
         public GradeDTO Create(string studentId, string teacherId, int subjectId, GradeCreateDTO dto)
         {
 
             Student student = studentService.GetById(studentId);
-            //Teacher teacher = teacherService.GetById(teacherId);
+           
             Subject subject = subjectService.GetById(subjectId);
-             SubjectTeacher subjectTeacher = subjectTeacherService.GetBySubjectAndTeacher(subjectId, teacherId);
+            SubjectTeacher subjectTeacher = subjectTeacherService.GetBySubjectAndTeacher(subjectId, teacherId);
             if(subjectTeacher == null)
             {
                 throw new Exception("Teacher is not teaching that subject.");

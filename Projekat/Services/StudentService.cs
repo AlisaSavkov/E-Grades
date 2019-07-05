@@ -47,8 +47,6 @@ namespace Projekat.Services
         {
             Student removed = GetById(id);
 
-            
-
             IEnumerable<Grade> grades = db.GradesRepository.GetByStudentId(id);
             if (grades.Count() > 0)
             {
@@ -141,10 +139,7 @@ namespace Projekat.Services
                     updated.UserName = dto.UserName;
                 }
                 
-                //if (dto.Email != null && dto.Email != updated.Email && userService.GetByEmail(dto.Email) == null)
-                //{
-                //    updated.Email = dto.Email;
-                //}
+                
                 if(dto.Email != null)
                 {
                     updated.Email = dto.Email;
@@ -215,6 +210,7 @@ namespace Projekat.Services
           
             return db.StudentsRepository.GetByParentId(parentId).ToList().Select(Mapper.Map<Student, StudentDTO>);
         }
+
         //get as parent
         public IEnumerable<StudentPDTO> GetByParentIdP(string parentId)
         {

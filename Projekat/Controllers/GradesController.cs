@@ -568,10 +568,6 @@ namespace Projekat.Controllers
         }
 
        
-
-
-       
-        //provereno
         // PUT: api/Grades/5
         [Authorize(Roles = "admins, teachers")]
         [Route("{id}")]
@@ -609,7 +605,6 @@ namespace Projekat.Controllers
             }
         }
 
-        //provereno
         [Authorize(Roles = "admins, teachers")]
         [Route("change/{id}")]
         [ValidateModel]
@@ -647,7 +642,7 @@ namespace Projekat.Controllers
             }
         }
 
-        //provereno
+   
         // DELETE: api/Grades/5
         [ResponseType(typeof(GradeDTO))]
         [Route("{id}")]

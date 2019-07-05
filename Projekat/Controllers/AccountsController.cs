@@ -56,30 +56,7 @@ namespace Projekat.Controllers
         }
 
       
-        //[Authorize(Roles = "admins")]
-        //[ValidateModel]
-        //[Route("register-student-parent")]
-        //public async Task<IHttpActionResult> RegisterStudentParent(StudentParentRegistrationDTO dto)
-        //{
-        //    string userName = ((ClaimsPrincipal)RequestContext.Principal).FindFirst(x => x.Type == "UserName").Value;
-        //    try
-        //    {
-        //        var result = await service.RegisterStudentParent(dto);
-
-        //        if (result == null)
-        //        {
-        //            return BadRequest();
-        //        }
-        //        logger.Info("Admin with username " + userName + " registered new student and parent.");
-        //        return Ok();
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        ErrorDTO error = new ErrorDTO(e.Message);
-        //        logger.Info(e.Message);
-        //        return BadRequest(error.WriteM());
-        //    }
-        //}
+       
 
         [Authorize(Roles = "admins")]
         [ValidateModel]

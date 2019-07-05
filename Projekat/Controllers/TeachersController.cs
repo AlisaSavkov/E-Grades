@@ -34,7 +34,6 @@ namespace Projekat.Controllers
         }
 
         // GET: api/Teachers
-        //provereno, ovo srediti
         [Route("")]
         [Authorize(Roles = "admins, teachers, parents, students")]
         public IHttpActionResult GetTeachers()
@@ -66,8 +65,7 @@ namespace Projekat.Controllers
            
         }
 
-        //provereno
-        
+       
         [Authorize(Roles = "admins, teachers")]
         [Route("findBySubject/{subjectId}")]
         public HttpResponseMessage GetTeachersBySubject(int subjectId)
@@ -92,7 +90,7 @@ namespace Projekat.Controllers
                 
         }
 
-        //provereno
+        
         // GET: api/Teachers/5
         [Authorize(Roles = "admins, teachers, parents, students")]
         [Route("{id}")]
@@ -138,7 +136,7 @@ namespace Projekat.Controllers
             
         }
 
-        //videti jos gde staviti proveru da li je dto null
+        
         // PUT: api/Teachers/5
         [Authorize(Roles = "admins")]
         [ResponseType(typeof(TeacherDTO))]
@@ -193,7 +191,7 @@ namespace Projekat.Controllers
             }
         }
 
-        //provereno
+       
         [Authorize(Roles = "admins")]
         [Route("{id}/add-subject/{subjectId}")]
         [ResponseType(typeof(SubjectTeacherDTO))]
@@ -217,7 +215,7 @@ namespace Projekat.Controllers
 
         }
 
-        //provereno
+        
         [Authorize(Roles = "admins")]
         [Route("{id}/remove-subject/{subjectId}")]
         [ResponseType(typeof(void))]

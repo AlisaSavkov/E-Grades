@@ -47,7 +47,7 @@ namespace Projekat.Services
             emailService.SendMail("Registracija", message, user.Email);
 
             return await regisetredAdmin;
-            //return await db.AuthRepository.RegisterAdminUser(user, userDto.Password);
+            
         }
 
         public async Task<IdentityResult> RegisterTeacherUser(TeacherRegistrationDTO teacherDto)
@@ -84,12 +84,7 @@ namespace Projekat.Services
                 throw new Exception("User with that username already exists!");
             }
 
-            //if (await db.AuthRepository.FindByEmail(studentParent.Student.Email) != null)
-            //{
-            //    logger.Info("Exception - Student with that email already exists.");
-            //    throw new Exception("Student with that email already exists!");
-            //}
-
+           
             Class c = db.ClassesRepository.GetByID(studentParent.Student.classID);
             if (c == null)
             {
@@ -214,12 +209,6 @@ namespace Projekat.Services
                 logger.Info("Exception - User with " + dto.UserName + " already exists.");
                 throw new Exception("User with username " + dto.UserName+" already exists!");
             }
-
-            //if (await db.AuthRepository.FindByEmail(studentParent.Student.Email) != null)
-            //{
-            //    logger.Info("Exception - Student with that email already exists.");
-            //    throw new Exception("Student with that email already exists!");
-            //}
 
             Class c = db.ClassesRepository.GetByID(dto.classID);
             if (c == null)

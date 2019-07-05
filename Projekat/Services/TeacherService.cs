@@ -14,7 +14,6 @@ namespace Projekat.Services
     {
         private IUnitOfWork db;
         private IUserService userService;
-        //private ISubjectService subjectService;
         private static Logger logger = LogManager.GetCurrentClassLogger();
 
         public TeacherService(IUnitOfWork db, IUserService userService)
@@ -27,25 +26,6 @@ namespace Projekat.Services
         public IEnumerable<TeacherDTO> GetAllTeachersDTO()
         {
             return db.TeachersRepository.Get().ToList().Select(Mapper.Map<Teacher, TeacherDTO>);
-        }
-
-
-       //proveriti
-        public IEnumerable<TeacherDTO> GetTeachersBySubject(int subjectId)
-        {
-            Subject subject = db.SubjectsRepository.GetByID(subjectId);
-            if(subject == null)
-            {
-                throw new Exception("Subject with id " + subjectId + " doesn't exist.");
-            }
-
-            IEnumerable<SubjectTeacher> taughtSubjects = db.SubjectTeachersRepository.GetBySubjectId(subjectId);
-            List<Teacher> teachers = new List<Teacher>();
-            foreach (var item in taughtSubjects)
-            {
-                teachers.Add(item.Teacher);
-            }
-            return teachers.ToList().Select(Mapper.Map<Teacher, TeacherDTO>);
         }
 
         public Teacher GetById(string id)
@@ -77,27 +57,45 @@ namespace Projekat.Services
             return Mapper.Map<Teacher, TeacherDTO>(found);
         }
 
+        public IEnumerable<TeacherDTO> GetTeachersBySubject(int subjectId)
+        {
+            Subject subject = db.SubjectsRepository.GetByID(subjectId);
+            if(subject == null)
+            {
+                logger.Info("Subject with id " + subjectId + " doesn't exist.");
+                throw new Exception("Subject with id " + subjectId + " doesn't exist.");
+            }
+
+            IEnumerable<SubjectTeacher> taughtSubjects = db.SubjectTeachersRepository.GetBySubjectId(subjectId);
+            List<Teacher> teachers = new List<Teacher>();
+            foreach (var item in taughtSubjects)
+            {
+                teachers.Add(item.Teacher);
+            }
+            return teachers.ToList().Select(Mapper.Map<Teacher, TeacherDTO>);
+        }
+
+       
+
         public TeacherDTO Update(string id, TeacherDTO dto)
         {
             Teacher updated = GetById(id);
 
-           if(dto.UserName != null && dto.UserName != updated.UserName && userService.GetByUserName(dto.UserName) != null)
-            {
-                throw new Exception("User with username " + dto.UserName + " already exists!");
-            }
+               if(dto.UserName != null && dto.UserName != updated.UserName && userService.GetByUserName(dto.UserName) != null)
+                {
+                    logger.Info("User with username " + dto.UserName + " already exists!");
+                    throw new Exception("User with username " + dto.UserName + " already exists!");
+                }
+
+                if (dto.JMBG != null && dto.JMBG != updated.JMBG && db.TeachersRepository.Get().Where(x => x.JMBG == dto.JMBG).FirstOrDefault() != null)
+                {
+                    logger.Info("Teacher with JMBG " + dto.JMBG + " already exists!");
+                    throw new Exception("Teacher with JMBG " + dto.JMBG + " already exists!");
+                }
 
                 if (dto.UserName != null && dto.UserName != updated.UserName)
                 {
                     updated.UserName = dto.UserName;
-                }
-                //if (dto.Email != null && dto.Email != updated.Email && userService.GetByEmail(dto.Email) == null)
-                //{
-                //    updated.Email = dto.Email;
-                //}
-
-                if (dto.JMBG != null && dto.JMBG != updated.JMBG && db.TeachersRepository.Get().Where(x => x.JMBG == dto.JMBG).FirstOrDefault() != null)
-                {
-                throw new Exception("Teacher with JMBG " + dto.JMBG + " already exists!");
                 }
 
                 if (dto.Email != null)
@@ -110,13 +108,10 @@ namespace Projekat.Services
                 }
 
                 if (dto.LastName != null)
-                    {
-                        updated.LastName = dto.LastName;
-                    }
-                //if (dto.UserName != null)
-                //{
-                //    updated.UserName = dto.UserName;
-                //}
+                {
+                    updated.LastName = dto.LastName;
+                }
+                
                 if (dto.FirstName != null)
                 {
                     updated.FirstName = dto.FirstName;
@@ -126,18 +121,17 @@ namespace Projekat.Services
                 db.Save();
                
                 return Mapper.Map<Teacher, TeacherDTO>(updated);
-            //}
-            //return null;
+            
         }
-        //proveriti jos jednom, da li dozvoliti brisanje ako ima nast-pred-odeljenje
+        
         public TeacherDTO Delete(string id)
         {
             Teacher removed = GetById(id);
 
-
             IEnumerable<SubjectTeacher> sts = db.SubjectTeachersRepository.GetByTeacherId(id);
             if (sts.Count() > 0)
             {
+                logger.Info("Can't delete teacher that teaches subjects!");
                 throw new Exception("Can't delete teacher that teaches subjects!");
             }
 
@@ -154,27 +148,6 @@ namespace Projekat.Services
             return db.TeachersRepository.Get();
         }
 
-
-
-        //SubjectTeacherDTO AddSubjectTeacher(int id, int subjectId)
-        //{
-        //    Teacher teacher = db.TeachersRepository.GetByID(id);
-        //    Subject subject = subjectService.GetById(subjectId);
-
-        //    if(teacher == null || subject == null)
-        //    {
-        //        return null;
-        //    }
-
-        //    SubjectTeacher ts = new SubjectTeacher();
-        //    ts.Subject = subject;
-        //    ts.Teacher = teacher;
-
-        //    teacher.TaughtSubjects.Add(ts);
-        //    subject.SubjectTeachers.Add(ts);
-
-
-        //}
 
     }
 }

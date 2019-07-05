@@ -69,14 +69,7 @@ namespace Projekat.Services
 
                         return Mapper.Map<ClassSubjectTeacherDTO>(created);
                     }
-                    //ako odeljenju drugi nastavnik predaje predmet, onda ga menjamo
-                    //SubjectTeacher st = found.SubjectTeacher;
-                    //found.SubjectTeacher.TaughtSubjectClasses.Remove(found);
-                    //found.SubjectTeacher = subjectTeacher;
-                    //subjectTeacher.TaughtSubjectClasses.Add(found);
-                    //db.ClassSubjectTeachersRepository.Update(found);
-                    //db.Save();
-                    //return Mapper.Map<ClassSubjectTeacherDTO>(found);
+                    
                     logger.Info("Exception - Another teacher already teaches that subject in that class.");
                     throw new Exception("Another teacher already teaches that subject in that class.");
 
@@ -90,53 +83,7 @@ namespace Projekat.Services
         }
 
 
-        //public ClassSubjectTeacherDTO Remove(int subjectId, string teacherId, int classId)
-        //{
-        //    //Teacher teacher = teacherService.GetById(teacherId);
-        //    //Subject subject = subjectService.GetById(subjectId);
-        //    Class clas = classService.GetById(classId);
-        //    SubjectTeacher subjectTeacher = stService.GetBySubjectAndTeacher(subjectId, teacherId);
-        //    //ako postoji ta kombinacija u tabeli
-        //    ClassSubjectTeacher cst = db.ClassSubjectTeachersRepository.Get(x => x.SubjectTeacher.ID == subjectTeacher.ID && x.Class.ID == classId).FirstOrDefault();
-
-        //    if(cst != null)
-        //    {
-        //        clas.AttendedTeacherSubjects.Remove(cst);
-        //        subjectTeacher.TaughtSubjectClasses.Remove(cst);
-        //        db.ClassSubjectTeachersRepository.Delete(cst);
-        //        db.Save();
-        //        return Mapper.Map<ClassSubjectTeacherDTO>(cst);
-        //    }
-        //    return null;
-
-        //}
-
-
-        //public ClassSubjectTeacherDTO Update1(int id, ClassSubjectTeacherUpdateDTO dto)
-        //{
-        //    ClassSubjectTeacher found = db.ClassSubjectTeachersRepository.GetByID(id);
-        //    if (found == null)
-        //    {
-        //        return null;
-        //    }
-           
-        //    Class clas = classService.GetById(dto.ClassId);
-        
-        //    Subject subject = subjectService.GetById(dto.SubjectId);
-           
-        //    Teacher teacher = teacherService.GetById(dto.TeacherId);
-        //    if (teacher == null || subject == null || clas == null)
-        //    {
-        //        return null;
-        //    }
-        //    SubjectTeacher subjectTeacher = stService.GetBySubjectAndTeacher(dto.SubjectId, dto.TeacherId);
-        //    if (subjectTeacher == null)
-        //    {
-        //        logger.Info("Exception - Teacher with id " + dto.TeacherId + " doesn't teach a subject with id " + dto.SubjectId);
-        //        throw new Exception("Teacher with id " + dto.TeacherId + " doesn't teach a subject with id " + dto.SubjectId);
-        //    }
-
-        //}
+       
 
         public ClassSubjectTeacherDTO Update(int id, string teacherId, int subjectId, int classId)
         {
@@ -171,9 +118,7 @@ namespace Projekat.Services
                         clas.AttendedTeacherSubjects.Remove(cst);
                         cst.SubjectTeacher.TaughtSubjectClasses.Remove(cst);
 
-                        //throw new Exception("Other teacher already teaches that subject in that class,");
-                        
-
+                       
                     }
 
                     found.SubjectTeacher = subjectTeacher;
@@ -187,15 +132,7 @@ namespace Projekat.Services
                     db.Save();
 
                     return Mapper.Map<ClassSubjectTeacherDTO>(found);
-                    //ako odeljenju drugi nastavnik predaje predmet 
-                    //SubjectTeacher st = cst.SubjectTeacher;
-                    //found.SubjectTeacher.TaughtSubjectClasses.Remove(found);
-                    //found.SubjectTeacher = subjectTeacher;
-                    //subjectTeacher.TaughtSubjectClasses.Add(found);
-                    //db.ClassSubjectTeachersRepository.Update(found);
-                    //db.Save();
-                    //return Mapper.Map<ClassSubjectTeacherDTO>(found);
-                    
+                   
                 }
                 throw new Exception("Teacher already teaches that subject in this class.");
             }

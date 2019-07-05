@@ -204,11 +204,11 @@ namespace Projekat.Controllers
 
                 response.AddHeader("Content-Disposition", "attachment; filename=" + fileInfo.Name);
                 response.AddHeader("Content-Length", fileInfo.Length.ToString());
-               // response.ContentType = "text/html";
+               
                 response.ContentType = "application/octet-stream";
                 response.Flush();
                 response.WriteFile(fileInfo.FullName);
-                //response.TransmitFile(fileInfo.FullName);
+                
                 response.End();
 
                

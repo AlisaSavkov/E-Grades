@@ -34,7 +34,7 @@ namespace Projekat.Controllers
 
         
         // GET: api/Subjects
-        //[Authorize(Roles = "admins, teachers, parents, students")]
+        [Authorize(Roles = "admins, teachers, parents, students")]
         [Route("")]
         public IEnumerable<SubjectDTO> Get()
         {
@@ -42,7 +42,7 @@ namespace Projekat.Controllers
             return subjectService.GetAllSubjects();
         }
 
-        //provereno
+        
         // GET: api/Subjects/5
         [Authorize(Roles = "admins, teachers, parents, students")]
         [ResponseType(typeof(SubjectDTO))]
@@ -65,7 +65,7 @@ namespace Projekat.Controllers
             }
         }
 
-        //provereno
+        
         [Authorize(Roles = "admins, teachers")]
         [Route("findByTeacher/{teacherId}")]
         public HttpResponseMessage GetSubjectsByTeacher(string teacherId)
@@ -153,8 +153,6 @@ namespace Projekat.Controllers
         }
 
         
-
-        //provereno
         // PUT: api/Subjects/5
         [Authorize(Roles = "admins")]
         [ValidateModel]
@@ -185,7 +183,7 @@ namespace Projekat.Controllers
             
         }
 
-        //provereno
+       
         // POST: api/Subjects
         [Authorize(Roles = "admins")]
         [ValidateModel]
@@ -215,7 +213,7 @@ namespace Projekat.Controllers
             
         }
 
-        //provereno
+        
         // DELETE: api/Subjects/5
         //ako se predmet predaje u nekom razredu ne moze da se obrise
         [Authorize(Roles = "admins")]

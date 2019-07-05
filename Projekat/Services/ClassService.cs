@@ -51,7 +51,6 @@ namespace Projekat.Services
 
             Class found = db.ClassesRepository.GetByYearLabel(dto.Year, dto.Label);
 
-
             if (found == null)
             {
                 Class newClass = new Class();

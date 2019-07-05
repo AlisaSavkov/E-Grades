@@ -24,17 +24,7 @@ namespace Projekat.Services
             _userManager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(context));
         }
 
-        //public IEnumerable<ApplicationUser> GetApplicationUsers()
-        //{
-
-
-        //   return db.UsersRepository.Get();
-        //}
-
-        //public ApplicationUser GetByEmail(string Email)
-        //{
-        //    return db.UsersRepository.Get().Where(x => x.Email == Email).FirstOrDefault();
-        //}
+      
 
         IEnumerable<UserDTO> IUserService.GetApplicationUsers()
         {
@@ -77,10 +67,5 @@ namespace Projekat.Services
         }
 
 
-
-        //public async Task<ApplicationUser> IUserService.FindByEmail(string email)
-        //{
-        //    return await db.AuthRepository.FindByEmail(email);
-        //}
     }
 }

@@ -30,7 +30,7 @@ namespace Projekat.Services
             return db.SubjectsRepository.Get().ToList().Select(Mapper.Map<Subject, SubjectDTO>);
         }
 
-        //proveriti
+        
         public IEnumerable<SubjectDTO> GetSubjectsByTeacher(string teacherId)
         {
             Teacher teacher = teacherService.GetById(teacherId);
@@ -116,35 +116,23 @@ namespace Projekat.Services
                 throw new Exception("Inserted subject already exists!");
             }
         }
-        //proveriti
+        
         public SubjectDTO Delete(int id)
         {
             Subject subject = GetById(id);
-            //if (subject != null)
-            //{
+         
+            IEnumerable<SubjectTeacher> sts = db.SubjectTeachersRepository.GetBySubjectId(id);
+            if(sts.Count() > 0)
+            {
 
-                //IEnumerable<ClassSubjectTeacher> csts = db.ClassSubjectTeachersRepository.GetBySubject(id);
-                //if(csts.Count() > 0)
-                //{
-                //    throw new Exception("Can't delete a subject which is taught in classes by teacher!");
-                //}
-                IEnumerable<SubjectTeacher> sts = db.SubjectTeachersRepository.GetBySubjectId(id);
-                if(sts.Count() > 0)
-                {
-
-                    throw new Exception("Can't delete a subject which is taught by at least one teacher.");
-                    //foreach (var st in sts)
-                    //{
-                    //    db.SubjectTeachersRepository.Delete(st);
-                    //}
-                }
-                 db.SubjectsRepository.Delete(id);
-                 db.Save();
-                 SubjectDTO removedDto = Mapper.Map<Subject, SubjectDTO>(subject);
-                 return removedDto;
+                throw new Exception("Can't delete a subject which is taught by at least one teacher.");
+                    
+            }
+            db.SubjectsRepository.Delete(id);
+            db.Save();
+            SubjectDTO removedDto = Mapper.Map<Subject, SubjectDTO>(subject);
+            return removedDto;
                  
-            //}
-            //return null;
         }
 
         public SubjectDTO Update(int id, SubjectUpdateDTO dto)

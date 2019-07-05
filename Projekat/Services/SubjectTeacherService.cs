@@ -19,7 +19,7 @@ namespace Projekat.Services
         private ISubjectService subjectService;
         private IClassService classService;
         private IUserService userService;
-        //private IClassSubjectTeacherService ctsService;
+
         private static Logger logger = LogManager.GetCurrentClassLogger();
 
         public SubjectTeacherService(IUnitOfWork db, ITeacherService teacherService, ISubjectService subjectService, IUserService userService, IClassService classService
@@ -30,7 +30,7 @@ namespace Projekat.Services
             this.subjectService = subjectService;
             this.userService = userService;
             this.classService = classService;
-            //this.ctsService = ctsService;
+            
         }
 
         public SubjectTeacherDTO Create(string teacherId, int subjectId)
@@ -67,18 +67,11 @@ namespace Projekat.Services
 
             if (subjectTeacher != null)
             {
-                //dozvoliti izmenu samo ako nastavnik iz predmeta nije dao ocene
-                //IEnumerable<Grade> gradesByST = db.GradesRepository.GetBySubjectTeacher(id);
-                //if (gradesByST.Count() == 0)
-                //{
-
-
+                
                 //izmena ako ne postoji takva kombinacija
                 if (db.SubjectTeachersRepository.GetBySubjectTeacher(subjectId, teacherId) == null)
                 {
-                    //SubjectTeacher st = db.SubjectTeachersRepository.GetBySubjectTeacher(subject.ID, teacher.Id);
-                    //subject.SubjectTeachers.Remove(st);
-                    //teacher.TaughtSubjects.Remove(st);
+                    
                     IEnumerable<ClassSubjectTeacher> csts = db.ClassSubjectTeachersRepository.GetBySubjectTeacher(id);
                     if (csts.Count() > 0)
                     {
@@ -107,9 +100,7 @@ namespace Projekat.Services
                 }
                 logger.Info("Exception - Teacher witd id " + teacherId + " already teaches subject with id " + subjectId);
                 throw new Exception("Teacher already teaches that subject.");
-                //}
-                //logger.Info("Exception - Can't update subject-teacher that asigned grades to students.");
-                //throw new Exception("Can't update subject-teacher that asigned grades to students.");
+                
             }
             logger.Info("Exception - Doesn't exist subject-teacher with required id.");
             throw new Exception("Doesn't exist subject-teacher with required id.");
@@ -225,8 +216,6 @@ namespace Projekat.Services
                 db.Save();
                 return Mapper.Map<SubjectTeacher, SubjectTeacherDTO>(st);
            
-            
-
 
         }
     }

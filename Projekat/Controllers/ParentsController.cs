@@ -27,7 +27,6 @@ namespace Projekat.Controllers
 
         }
 
-       
 
         [Authorize(Roles = "admins, teachers, parents, students")]
         [ResponseType(typeof(ParentDTO))]
@@ -74,8 +73,7 @@ namespace Projekat.Controllers
             try
             {
                 Parent parent = parentsService.GetById(id);
-                //if (parent != null)
-                //{
+                
                 if (RequestContext.Principal.IsInRole("admins"))
                 {
                     logger.Info("Admin with id " + userId + " is requesting a parent with id " + id);
@@ -136,33 +134,7 @@ namespace Projekat.Controllers
             }
         }
 
-        //[Route("jmbg/{jmbg}")]
-        //[Authorize(Roles = "admins")]
-        //public IHttpActionResult GetByJMBG(string jmbg)
-        //{
-        //    string userId = ((ClaimsPrincipal)RequestContext.Principal).FindFirst(x => x.Type == "UserId").Value;
-        //    string userName = ((ClaimsPrincipal)RequestContext.Principal).FindFirst(x => x.Type == "UserName").Value;
-        //    logger.Info("Admin with username " + userName + " is requesting parent by jmbg" + jmbg);
-        //    try
-        //    {
-
-        //        Parent parent = parentsService.GetByJMBG(jmbg);
-        //        if (parent == null)
-        //        {
-        //            logger.Info("Parent with jmbg " + jmbg + " not found admin by username" + userName);
-        //            return NotFound();
-        //        }
-        //        logger.Info("Parent with jmbg " + jmbg + " found admin by username" + userName);
-        //        return Ok(Mapper.Map<Parent, ParentDTO>(parent));
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        logger.Info(e.Message);
-        //        ErrorDTO error = new ErrorDTO(e.Message);
-        //        return BadRequest(error.WriteM());
-        //    }
-        //}
-
+     
         [Route("jmbg/{jmbg}")]
         [Authorize(Roles = "admins")]
         public IHttpActionResult GetByJMBG([FromUri] string jmbg)

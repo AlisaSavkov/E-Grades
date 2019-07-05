@@ -117,32 +117,7 @@ namespace Projekat.Controllers
             }
         }
 
-        //[ResponseType(typeof(void))]
-        //[Route("{id}")]
-        //[ValidateModel]
-        //public HttpResponseMessage PutClassSubjectTeacher(int id, ClassSubjectTeacherUpdateDTO dto)
-        //{
-        //    if(dto == null || id!= dto.ID)
-        //    {
-        //        return Request.CreateResponse(HttpStatusCode.BadRequest);
-        //    }
-        //    try
-        //    {
-        //        logger.Info("Updating subject-teacher-class.");
-        //        ClassSubjectTeacherDTO updated = cstService.Update1(id, dto);
-        //        if (updated == null)
-        //        {
-        //            return Request.CreateResponse(HttpStatusCode.NotFound);
-        //        }
-        //        return Request.CreateResponse(HttpStatusCode.OK, updated);
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        logger.Info("Subject-teacher-class not updated.");
-        //        ErrorDTO error = new ErrorDTO(e.Message);
-        //        return Request.CreateResponse(HttpStatusCode.BadRequest, error);
-        //    }
-        //}
+      
 
         //// POST: api/ClassSubjectTeachers
         ///dodaj teacher-subject classi

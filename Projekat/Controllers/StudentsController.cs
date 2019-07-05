@@ -147,7 +147,7 @@ namespace Projekat.Controllers
 
         }
 
-        //provereno
+      
         [Route("parent/{parentId}")]
         [Authorize(Roles = "admins, parents")]
         public HttpResponseMessage GetByParent(string parentId)
@@ -222,10 +222,8 @@ namespace Projekat.Controllers
                     }
                     else { 
 
-                        throw new Exception("User is not authorized to see the student.");
-                    //{
-                    //    logger.Info("Student with id " + userId + " is requesting a student with id " + id);
-                    //    return Request.CreateResponse(HttpStatusCode.OK, Mapper.Map<Student, StudentPDTO>(student));
+                         throw new Exception("User is not authorized to see the student.");
+                   
                     }
 
                 }
@@ -241,8 +239,7 @@ namespace Projekat.Controllers
             }
         }
 
-        // provereno, ostala valdiacija datuma
-
+       
         [ValidateModel]
         [Route("{id}")]
         [Authorize(Roles = "admins")]
@@ -337,9 +334,8 @@ namespace Projekat.Controllers
             }
         }
 
-        //provereno
+        
         [ResponseType(typeof(StudentDTO))]
-       
         [Route("{studentId}/add-class/{classId}")]
         [Authorize(Roles = "admins")]
         public HttpResponseMessage PutStudentToClass(string studentId, int classId)
@@ -368,9 +364,8 @@ namespace Projekat.Controllers
 
         }
 
-        //provereno, ako ucenik ima ocen ne brise se
+        //ako ucenik ima ocene ne brise se
         // DELETE: api/Students/5
-        
         [Route("{id}")]
         [Authorize(Roles = "admins")]
         public HttpResponseMessage Delete(string id)

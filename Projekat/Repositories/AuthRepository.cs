@@ -68,7 +68,6 @@ namespace Projekat.Repositories
             return user;
         }
 
-       
 
         public async Task<ApplicationUser> FindByEmail(string email)
         {
@@ -80,10 +79,7 @@ namespace Projekat.Repositories
             return await _userManager.GetRolesAsync(userId);
         }
 
-        //public IList<string> FindRoles1(string userId)
-        //{
-        //    return _userManager.GetRoles(userId);
-        //}
+       
         public void Dispose()
         {
             if (_userManager != null)
@@ -93,20 +89,7 @@ namespace Projekat.Repositories
             }
         }
 
-        //public ApplicationUser FindByUName(string userName)
-        //{
-        //    return _userManager.FindByName(userName);
-        //}
-
-        //public ApplicationUser FindById(string id)
-        //{
-        //    return _userManager.FindById(id);
-        //}
-
-        //public async Task<ApplicationUser> FindById(string id)
-        //{
-        //    return await _userManager.FindByIdAsync(id);
-        //}
+      
 
     }
 }

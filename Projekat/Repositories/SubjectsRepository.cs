@@ -21,10 +21,7 @@ namespace Projekat.Repositories
             return Get(x => x.Year == year && x.Name == name).FirstOrDefault();
         }
 
-        //public IEnumerable<Subject> GetByTeacherId(string teacherId)
-        //{
-        //    return Get().Where(x => x.SubjectTeachers. == teacherId);
-        //}
+       
 
        
     }
